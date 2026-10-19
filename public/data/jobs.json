@@ -1,0 +1,73 @@
+[
+  {
+    "id": "kepco-2026-elec-101",
+    "organization": "한국전력공사 (KEPCO)",
+    "orgShortName": "한전",
+    "orgType": "공기업",
+    "title": "2026년 하반기 전기·전자 분야 송배전 설비 진단 및 보호계전기 시험·교정 공채",
+    "categories": [
+      "elec_hardware",
+      "calibration",
+      "emc_auto_def"
+    ],
+    "subDomainTags": [
+      "전력계통 보호계전",
+      "변전설비 진단",
+      "계측제어 교정",
+      "전기안전"
+    ],
+    "employmentType": "정규직",
+    "location": "전국",
+    "detailLocation": "전남 나주 본사 및 전국 지역본부",
+    "headcount": "45명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력 무관 (전기기사/전자기사 등 자격 소지자 우대)",
+    "applicationStart": "2026-10-17",
+    "applicationEnd": "2026-10-31",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "지원서 접수 시작",
+        "date": "2026-10-17"
+      },
+      {
+        "stage": "application_end",
+        "label": "지원서 접수 마감",
+        "date": "2026-10-31"
+      },
+      {
+        "stage": "written_test",
+        "label": "필기전형 (NCS+전공)",
+        "date": "2026-11-14"
+      },
+      {
+        "stage": "interview",
+        "label": "직무 및 종합면접",
+        "date": "2026-11-26"
+      }
+    ],
+    "summary": "송배전 전력설비 전자기 유도장해(EMI) 검토, 디지털 보호계전기 특성 시험 및 계측장비 교정 관리",
+    "mainDuties": [
+      "초고압 송변전 설비 부분방전(PD) 및 전자파 환경 측정·진단",
+      "디지털 보호계전기(IED) 동작 특성 시험 및 정밀 시험기 주기 교정 관리",
+      "배전 지능화 단말장치 통신/하드웨어 신뢰성 점검"
+    ],
+    "qualifications": [
+      "전기, 전자, 정보통신 관련 학과 전공자 또는 기사 자격증 보유자"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "전기공사기사",
+      "무선설비기사",
+      "정보통신기사"
+    ],
+    "ncsSubjects": [
+      "의사소통, 수리, 문제해결, 자원관리, 기술능력",
+      "전기공학 전공필기"
+    ],
+    "sourceUrl": "https://job.alio.go.kr",
+    "sourcePlatform": "공공데이터API",
+    "isMedicalExcluded": false,
+    "updatedAt": "2026-10-20 00:45"
+  }
+]
