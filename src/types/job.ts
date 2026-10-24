@@ -46,7 +46,7 @@ export interface JobPosting {
   id: string;
   organization: string;
   orgShortName: string;
-  orgType: '시장형 공기업' | '준시장형 공기업' | '준정부기관' | '기타공공기관' | '출연연구기관' | '공기업';
+  orgType: string;
   title: string;
   categories: Exclude<JobCategoryId, 'all'>[];
   subDomainTags: string[];
@@ -54,7 +54,7 @@ export interface JobPosting {
   location: string;
   detailLocation: string;
   headcount: string;
-  experienceLevel: '신입' | '경력' | '신입/경력' | '학력/경력 무관';
+  experienceLevel: string;
   educationRequired: string;
   applicationStart: string;
   applicationEnd: string;
@@ -69,7 +69,7 @@ export interface JobPosting {
   sourceUrl: string;
   sourcePlatform: 'JOB-ALIO' | '기관공식' | '공공데이터API';
   isMedicalExcluded?: boolean;
-  excludedReason?: string;
+  excludedReason?: string | null;
   updatedAt: string;
 }
 
