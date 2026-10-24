@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { FilterState, JobCategoryId, JobPosting } from './types/job';
-import { KEYWORD_RECIPE_PRESETS } from './config/categories';
+import { KEYWORD_RECIPE_PRESETS, matchesRegion } from './config/categories';
 import { INITIAL_JOBS } from './data/initialJobs';
 import { calculateDDay } from './utils/dateUtils';
 import { Header } from './components/Header';
@@ -319,12 +319,8 @@ export const App: React.FC = () => {
           return false;
         }
 
-        // 8. 지역 필터
-        if (
-          filters.region !== '전체 지역' &&
-          job.location !== filters.region &&
-          job.location !== '전국'
-        ) {
+        // 8. 지역 필터 (권역별 도시/도 키워드 부분 일치 매칭)
+        if (!matchesRegion(job.location, job.detailLocation, filters.region)) {
           return false;
         }
 
