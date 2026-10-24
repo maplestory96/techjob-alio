@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { FilterState, JobCategoryId, JobPosting } from './types/job';
-import { KEYWORD_RECIPE_PRESETS, matchesRegion } from './config/categories';
+import { matchesRegion } from './config/categories';
 import { INITIAL_JOBS } from './data/initialJobs';
 import { calculateDDay } from './utils/dateUtils';
 import { Header } from './components/Header';
@@ -18,7 +18,7 @@ import { SearchX, RotateCcw } from 'lucide-react';
 const BOOKMARK_STORAGE_KEY = 'techjob_alio_bookmarks_v1';
 const CUSTOM_JOBS_STORAGE_KEY = 'techjob_alio_custom_jobs_v2';
 const MY_CERTS_STORAGE_KEY = 'techjob_alio_my_certs_v2';
-const CUSTOM_RECIPE_STORAGE_KEY = 'techjob_alio_recipe_v3';
+const CUSTOM_RECIPE_STORAGE_KEY = 'techjob_alio_recipe_v4';
 
 const DEFAULT_FILTERS: FilterState = {
   category: 'all',
@@ -108,12 +108,9 @@ export const App: React.FC = () => {
       if (!res.ok) return;
       const data: JobPosting[] = await res.json();
       if (Array.isArray(data) && data.length > 0) {
-        const map = new Map<string, JobPosting>();
-        INITIAL_JOBS.forEach((j) => map.set(j.id, j));
-        data.forEach((j) => map.set(j.id, j));
-        setBaseJobs(Array.from(map.values()));
+        setBaseJobs(data);
         if (notify) {
-          showToast(`최신 채용공고 데이터를 성공적으로 불러왔습니다. (총 ${map.size}건)`);
+          showToast(`최신 채용공고 데이터를 성공적으로 불러왔습니다. (총 ${data.length}건)`);
         }
       }
     } catch {
@@ -208,34 +205,6 @@ export const App: React.FC = () => {
     return allJobs.filter((j) => getMatchedCertCount(j) > 0).length;
   }, [allJobs, getMatchedCertCount]);
 
-  // 현재 활성화된 상단 프리셋 판별
-  const activePresetId = useMemo(() => {
-    const emcPreset = KEYWORD_RECIPE_PRESETS.find((p) => p.id === 'emc_rf_cal_focus');
-    if (
-      emcPreset &&
-      filters.customIncludeKeywords.length === emcPreset.includeKeywords.length &&
-      filters.customExcludeKeywords.length === emcPreset.excludeKeywords.length
-    ) {
-      return 'emc_rf_cal_focus';
-    }
-    return 'all_public';
-  }, [filters.customIncludeKeywords, filters.customExcludeKeywords]);
-
-  const handleSelectPresetMode = (mode: 'all_public' | 'emc_rf_cal_focus') => {
-    const preset = KEYWORD_RECIPE_PRESETS.find((p) => p.id === mode);
-    if (!preset) return;
-    setFilters((prev) => ({
-      ...prev,
-      category: 'all',
-      customIncludeKeywords: preset.includeKeywords,
-      customExcludeKeywords: preset.excludeKeywords,
-    }));
-    showToast(
-      mode === 'all_public'
-        ? '🌐 전 공기업 통합 보기 모드로 전환되었습니다.'
-        : '⚡ EMC·RF·전기·교정 특화 (의료제외) 모드로 전환되었습니다.'
-    );
-  };
 
   const handleToggleBookmark = (id: string, e: React.MouseEvent) => {
     e.stopPropagation();
@@ -377,13 +346,11 @@ export const App: React.FC = () => {
         onOpenCrawlerModal={() => setIsCrawlerModalOpen(true)}
       />
 
-      {/* 상단 전 공기업 9대 직군 대시보드 & 원클릭 모드 스위치 */}
+      {/* 상단 전 공기업 9대 직군 대시보드 */}
       <StatsBanner
         allJobs={allJobs}
         selectedCategory={filters.category}
         onSelectCategory={(cat: JobCategoryId) => handleUpdateFilters({ category: cat })}
-        activePresetId={activePresetId}
-        onSelectPresetMode={handleSelectPresetMode}
       />
 
       {/* 유저 맞춤형 [+포함 / -제외 키워드] 레시피 & 내 자격증 매칭 패널 */}

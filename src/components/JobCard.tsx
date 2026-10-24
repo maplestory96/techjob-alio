@@ -65,28 +65,23 @@ export const JobCard: React.FC<JobCardProps> = ({
           </div>
         )}
 
-        {/* 상단: 기관 약칭 로고 + 기관명/유형 + D-Day & 북마크 */}
+        {/* 상단: 기관명/유형 + D-Day & 북마크 */}
         <div className="flex items-start justify-between gap-2 mb-3">
-          <div className="flex items-center gap-2.5 min-w-0">
-            <div className="w-10 h-10 rounded-xl bg-slate-100 border border-slate-200/80 flex items-center justify-center font-extrabold text-xs text-slate-700 shrink-0 group-hover:bg-blue-50 group-hover:text-blue-700 group-hover:border-blue-200 transition-colors">
-              {job.orgShortName}
+          <div className="min-w-0 flex-1">
+            <div className="flex flex-wrap items-center gap-1.5">
+              <span className="text-sm sm:text-base font-extrabold text-slate-900 group-hover:text-blue-700 transition-colors break-keep">
+                {job.organization}
+              </span>
+              <span className="px-1.5 py-0.5 text-[10px] font-semibold rounded bg-slate-100 text-slate-600 shrink-0">
+                {job.orgType}
+              </span>
             </div>
-            <div className="min-w-0">
-              <div className="flex items-center gap-1.5">
-                <span className="text-xs font-semibold text-slate-500 truncate">
-                  {job.organization}
-                </span>
-                <span className="px-1.5 py-0.5 text-[10px] font-medium rounded bg-slate-100 text-slate-600 shrink-0">
-                  {job.orgType}
-                </span>
-              </div>
-              <div className="flex items-center gap-1.5 mt-0.5">
-                <span className="text-[11px] font-semibold text-blue-600">
-                  {job.employmentType}
-                </span>
-                <span className="text-slate-300">·</span>
-                <span className="text-[11px] text-slate-500">{job.experienceLevel}</span>
-              </div>
+            <div className="flex items-center gap-1.5 mt-1">
+              <span className="text-xs font-bold text-blue-600">
+                {job.employmentType}
+              </span>
+              <span className="text-slate-300">·</span>
+              <span className="text-xs text-slate-500">{job.experienceLevel}</span>
             </div>
           </div>
 
@@ -145,12 +140,12 @@ export const JobCard: React.FC<JobCardProps> = ({
         </div>
 
         {/* 공고 제목 */}
-        <h3 className="text-base font-bold text-slate-900 group-hover:text-blue-600 transition-colors line-clamp-2 leading-snug mb-2">
+        <h3 className="text-base font-bold text-slate-900 group-hover:text-blue-600 transition-colors leading-snug mb-2">
           {job.title}
         </h3>
 
         {/* 핵심 직무 요약 */}
-        <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed mb-3">
+        <p className="text-xs text-slate-600 leading-relaxed mb-3 whitespace-pre-line">
           {job.summary}
         </p>
 

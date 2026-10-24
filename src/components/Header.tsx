@@ -30,11 +30,11 @@ export const Header: React.FC<HeaderProps> = ({
                 PublicJob <span className="text-blue-600">ALIO</span>
               </h1>
               <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] sm:text-[11px] font-bold bg-blue-50 text-blue-700 border border-blue-200 shrink-0">
-                전 공기업 통합 + 직무특화
+                전국 공기업 채용 통합
               </span>
             </div>
             <p className="text-[11px] sm:text-xs text-slate-500 truncate hidden sm:block">
-              전국 공기업 <strong className="text-slate-700 font-semibold">경영·행정 · 기계 · 전기전자 · 토목 · 화공 · IT · EMC/RF/교정</strong> 통합 채용 & 캘린더
+              전국 모든 공기업 직군별 채용공고 · 세부 모집직종 · 전형 일정 캘린더 통합 플랫폼
             </p>
           </div>
         </div>

@@ -117,14 +117,6 @@ export const KEYWORD_RECIPE_PRESETS: KeywordRecipePreset[] = [
     excludeKeywords: []
   },
   {
-    id: 'emc_rf_cal_focus',
-    name: '⚡ EMC·RF·전기·교정 특화 (의료제외)',
-    description: '자동차 전장/국방 EMC, RF, 전기전자, KOLAS 교정 공고만 모아보고 의료기기는 자동 제외합니다.',
-    category: 'all',
-    includeKeywords: ['EMC', 'RF', '전장', 'MIL-STD', '교정', 'KOLAS', '전파', '안테나', '전기', '전자', '계측'],
-    excludeKeywords: ['의료기기', '의료용', '생체의료', 'IEC 60601']
-  },
-  {
     id: 'admin_focus',
     name: '💼 경영·회계·일반행정 집중',
     description: '문과/상경/법정 계열 일반행정, 경영기획, 회계, 재무 직무 공고만 필터링합니다.',

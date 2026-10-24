@@ -2,22 +2,18 @@ import React from 'react';
 import { JobPosting, JobCategoryId } from '../types/job';
 import { CATEGORY_RULES } from '../config/categories';
 import { calculateDDay } from '../utils/dateUtils';
-import { Flame, Globe, Zap, Layers } from 'lucide-react';
+import { Flame, Layers } from 'lucide-react';
 
 interface StatsBannerProps {
   allJobs: JobPosting[];
   selectedCategory: JobCategoryId;
   onSelectCategory: (cat: JobCategoryId) => void;
-  activePresetId: string;
-  onSelectPresetMode: (mode: 'all_public' | 'emc_rf_cal_focus') => void;
 }
 
 export const StatsBanner: React.FC<StatsBannerProps> = ({
   allJobs,
   selectedCategory,
   onSelectCategory,
-  activePresetId,
-  onSelectPresetMode,
 }) => {
   const activeJobs = allJobs.filter((j) => calculateDDay(j.applicationEnd).status !== 'closed');
   const urgentJobs = allJobs.filter((j) => {
@@ -31,8 +27,8 @@ export const StatsBanner: React.FC<StatsBannerProps> = ({
 
   return (
     <section className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 pt-3 sm:pt-5 pb-1">
-      {/* 상단 요약 및 원클릭 모드 스위치 배너 */}
-      <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-indigo-950 rounded-2xl p-3.5 sm:p-5 text-white shadow-lg mb-3 flex flex-col lg:flex-row lg:items-center justify-between gap-3">
+      {/* 상단 요약 배너 */}
+      <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-indigo-950 rounded-2xl p-3.5 sm:p-5 text-white shadow-lg mb-3 flex flex-wrap items-center justify-between gap-3">
         <div className="flex flex-wrap items-center gap-3 sm:gap-6">
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 sm:w-2.5 sm:h-2.5 rounded-full bg-emerald-400 animate-ping" />
@@ -55,34 +51,6 @@ export const StatsBanner: React.FC<StatsBannerProps> = ({
             <span className="text-xs sm:text-sm text-slate-300 font-medium">서류적부</span>
             <strong className="text-base sm:text-xl font-bold text-emerald-400">{docPassAllCount}건</strong>
           </div>
-        </div>
-
-        {/* 원클릭 뷰 모드 스위치: [전체 공기업 통합] vs [EMC·RF·전기·교정 특화] */}
-        <div className="flex items-center gap-1.5 bg-slate-950/60 p-1 rounded-xl border border-slate-700/80 self-start lg:self-auto w-full sm:w-auto">
-          <button
-            type="button"
-            onClick={() => onSelectPresetMode('all_public')}
-            className={`flex-1 sm:flex-initial inline-flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-extrabold transition-all ${
-              activePresetId === 'all_public'
-                ? 'bg-blue-600 text-white shadow-sm'
-                : 'text-slate-300 hover:text-white'
-            }`}
-          >
-            <Globe className="w-3.5 h-3.5" />
-            <span>전 공기업 통합 보기</span>
-          </button>
-          <button
-            type="button"
-            onClick={() => onSelectPresetMode('emc_rf_cal_focus')}
-            className={`flex-1 sm:flex-initial inline-flex items-center justify-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-extrabold transition-all ${
-              activePresetId === 'emc_rf_cal_focus'
-                ? 'bg-indigo-600 text-white shadow-sm'
-                : 'text-slate-300 hover:text-white'
-            }`}
-          >
-            <Zap className="w-3.5 h-3.5" />
-            <span>EMC·RF·전기·교정 특화 (의료제외)</span>
-          </button>
         </div>
       </div>
 
