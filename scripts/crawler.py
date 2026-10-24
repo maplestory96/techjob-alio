@@ -181,14 +181,15 @@ def fetch_detail_info(idx: str, ctx: ssl.SSLContext) -> Dict[str, Any]:
     return info
 
 
-def fetch_job_alio_html(max_pages: int = 3) -> List[Dict[str, Any]]:
-    """잡알리오 목록 + 상세페이지를 병렬 수집하여 모든 직종 정보를 빠짐없이 구성합니다."""
+def fetch_job_alio_html(max_pages: int = 20) -> List[Dict[str, Any]]:
+    """잡알리오 목록 + 상세페이지를 마지막 페이지까지 전수 병렬 수집합니다."""
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
 
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     raw_items: List[Dict[str, Any]] = []
+    seen_idxs = set()
 
     for page in range(1, max_pages + 1):
         url = f"https://job.alio.go.kr/recruit.do?ing=2&pageSet=50&pageNo={page}"
@@ -201,11 +202,16 @@ def fetch_job_alio_html(max_pages: int = 3) -> List[Dict[str, Any]]:
                 raw_html = resp.read().decode("utf-8", errors="ignore")
 
             rows = re.findall(r"<tr[^>]*>(.*?)</tr>", raw_html, re.DOTALL)
+            page_new_count = 0
             for row in rows:
                 idx_match = re.search(r"idx=(\d+)", row)
                 if not idx_match:
                     continue
                 idx = idx_match.group(1)
+                if idx in seen_idxs:
+                    continue
+                seen_idxs.add(idx)
+                page_new_count += 1
 
                 tds = re.findall(r"<td[^>]*>(.*?)</td>", row, re.DOTALL)
                 if len(tds) < 8:
@@ -261,13 +267,15 @@ def fetch_job_alio_html(max_pages: int = 3) -> List[Dict[str, Any]]:
                         "app_end": app_end,
                     }
                 )
+            if page_new_count == 0:
+                break
         except Exception as exc:
             print(f"[WARN] 잡알리오 페이지 {page} 수집 중 건너뜀: {exc}")
 
-    print(f"[INFO] 목록 {len(raw_items)}건 수집 완료. 상세페이지(직종/근무지/인원) 병렬 파싱 시작...")
+    print(f"[INFO] 목록 전체 {len(raw_items)}건 수집 완료. 상세페이지(직종/근무지/인원) 병렬 파싱 시작...")
 
     detail_map: Dict[str, Dict[str, Any]] = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
         future_to_idx = {
             executor.submit(fetch_detail_info, item["idx"], ctx): item["idx"]
             for item in raw_items
@@ -396,7 +404,7 @@ def main() -> None:
     print(f"- 실행 시각: {now_str}")
     print("=" * 68)
 
-    live_jobs = fetch_job_alio_html(max_pages=3)
+    live_jobs = fetch_job_alio_html(max_pages=20)
     print(f"[INFO] 잡알리오에서 실시간 상세 공고 {len(live_jobs)}건을 성공적으로 가져왔습니다.")
 
     with open(output_path, "w", encoding="utf-8") as f:
