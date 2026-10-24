@@ -19,12 +19,13 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
   const [detailLocation, setDetailLocation] = useState('경기 화성시');
   const [employmentType, setEmploymentType] = useState<EmploymentType>('정규직');
   const [headcount, setHeadcount] = useState('1명');
+  const [documentQuota, setDocumentQuota] = useState('서류 5배수');
+  const [writtenQuota, setWrittenQuota] = useState('필기 3배수');
   const [applicationEnd, setApplicationEnd] = useState('2026-11-05');
   const [writtenDate, setWrittenDate] = useState('2026-11-14');
   const [interviewDate, setInterviewDate] = useState('2026-11-24');
   const [certsInput, setCertsInput] = useState('무선설비기사, 전기기사');
 
-  // 실시간 키워드 자동 분류 결과
   const classification = useMemo(() => {
     return classifyJobText(`${title} ${summary} ${certsInput}`);
   }, [title, summary, certsInput]);
@@ -70,6 +71,24 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
       applicationStart: todayStr,
       applicationEnd,
       schedules,
+      selectionQuotas: {
+        documentQuota,
+        isDocumentPassAll: documentQuota.includes('적부'),
+        writtenQuota,
+        interviewQuota: '최종 1배수',
+      },
+      coverLetterQuestions: [
+        {
+          number: 1,
+          title: `${organization} 지원 동기 및 해당 직무 수행을 위해 준비한 역량을 기술해 주십시오.`,
+          maxChars: 800,
+        },
+        {
+          number: 2,
+          title: '직무 관련 실험·실습, 연구 또는 프로젝트 수행 경험을 구체적으로 작성해 주십시오.',
+          maxChars: 1000,
+        },
+      ],
       summary: summary || title,
       mainDuties: [summary || '세부 직무기술서 참조'],
       qualifications: ['관련 전공 및 계측기 운용 가능자'],
@@ -113,7 +132,6 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
         </div>
 
         <form onSubmit={handleSubmit} className="p-6 space-y-4">
-          {/* 실시간 분류 엔진 프리뷰 박스 */}
           <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
             <div className="flex items-center justify-between">
               <span className="text-xs font-extrabold text-slate-700">
@@ -138,7 +156,7 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
               <span className="text-xs text-slate-400">자동 매칭 직무:</span>
               {classification.categories.length === 0 ? (
                 <span className="text-xs text-slate-400 italic">
-                  제목이나 요약에 EMC, 전장, MIL-STD, RF, KOLAS, 교정, 전기 등의 키워드를 입력해 보세요.
+                  제목이나 요약에 EMC, 전장, MIL-STD, RF, KOLAS, 교정, 전기, 기계, 보안 등의 키워드를 입력해 보세요.
                 </span>
               ) : (
                 classification.categories.map((catId) => {
@@ -195,11 +213,11 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
 
           <div>
             <label className="block text-xs font-bold text-slate-700 mb-1">
-              직무 요약 및 수행업무 (키워드 자동 추출)
+              직무 요약 및 수행업무
             </label>
             <textarea
-              rows={3}
-              placeholder="예: 자동차 전장부품 CISPR 25 시험평가, RF 스펙트럼 분석기 교정 및 측정불확도 산출 (※ '의료기기' 입력 시 자동 제외 테스트 가능)"
+              rows={2}
+              placeholder="예: 자동차 전장부품 CISPR 25 시험평가, RF 스펙트럼 분석기 교정 및 측정불확도 산출"
               value={summary}
               onChange={(e) => setSummary(e.target.value)}
               className="w-full px-3.5 py-2 rounded-xl border border-slate-200 text-sm"
@@ -222,14 +240,28 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
               </select>
             </div>
             <div>
-              <label className="block text-xs font-bold text-slate-700 mb-1">상세 근무지</label>
+              <label className="block text-xs font-bold text-slate-700 mb-1">서류 선발배수</label>
               <input
                 type="text"
-                value={detailLocation}
-                onChange={(e) => setDetailLocation(e.target.value)}
+                value={documentQuota}
+                onChange={(e) => setDocumentQuota(e.target.value)}
+                placeholder="예: 서류 적부 또는 서류 5배수"
                 className="w-full px-3.5 py-2 rounded-xl border border-slate-200 text-sm"
               />
             </div>
+            <div>
+              <label className="block text-xs font-bold text-slate-700 mb-1">필기 선발배수</label>
+              <input
+                type="text"
+                value={writtenQuota}
+                onChange={(e) => setWrittenQuota(e.target.value)}
+                placeholder="예: 필기 3배수 또는 무필기"
+                className="w-full px-3.5 py-2 rounded-xl border border-slate-200 text-sm"
+              />
+            </div>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             <div>
               <label className="block text-xs font-bold text-slate-700 mb-1">고용형태</label>
               <select
@@ -244,9 +276,6 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
                 ))}
               </select>
             </div>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             <div>
               <label className="block text-xs font-bold text-slate-700 mb-1">서류 마감일</label>
               <input
@@ -263,15 +292,6 @@ export const AddJobModal: React.FC<AddJobModalProps> = ({ isOpen, onClose, onAdd
                 type="date"
                 value={writtenDate}
                 onChange={(e) => setWrittenDate(e.target.value)}
-                className="w-full px-3 py-2 rounded-xl border border-slate-200 text-sm"
-              />
-            </div>
-            <div>
-              <label className="block text-xs font-bold text-slate-700 mb-1">면접전형일 (선택)</label>
-              <input
-                type="date"
-                value={interviewDate}
-                onChange={(e) => setInterviewDate(e.target.value)}
                 className="w-full px-3 py-2 rounded-xl border border-slate-200 text-sm"
               />
             </div>

@@ -1,0 +1,35 @@
+name: Update Public Tech Jobs (Zero-Cost Crawler)
+
+on:
+  schedule:
+    # 매일 6시간마다 자동 실행 (한국시간 00:00, 06:00, 12:00, 18:00)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # GitHub 웹에서 수동 즉시 실행 버튼 지원
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run EMC/RF/Calibration Job Crawler
+        env:
+          DATA_GO_KR_API_KEY: ${{ secrets.DATA_GO_KR_API_KEY }}
+        run: python scripts/crawler.py
+
+      - name: Commit and Push updated jobs.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/jobs.json
+          git diff --staged --quiet || git commit -m "chore(data): auto-update public enterprise job postings"
+          git push
