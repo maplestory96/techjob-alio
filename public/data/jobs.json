@@ -1,122 +1,23 @@
 [
   {
-    "id": "alio-live-307033",
-    "organization": "한국마사회",
-    "orgShortName": "한국마사",
+    "id": "alio-live-307058",
+    "organization": "근로복지공단",
+    "orgShortName": "근로복지",
     "orgType": "공공기관",
-    "title": "2026년 한국마사회 위촉직(계약직) 채용공고",
+    "title": "[정선병원] 기간제 의사(응급실전담) 채용 공고",
     "categories": [
-      "admin_biz",
-      "mech_material",
-      "it_sw",
-      "emc_auto_def",
-      "rf_telecom"
+      "admin_biz"
     ],
     "subDomainTags": [
-      "경영·회계·사무",
-      "법률·경찰·소방·교도·국방",
-      "문화·예술·디자인·방송",
-      "이용·숙박·여행·오락·스포츠",
-      "기계",
+      "보건·의료",
       "계약직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
-    "location": "부산, 경기, 경북",
-    "detailLocation": "부산, 경기, 경북",
-    "headcount": "8명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관",
-    "applicationStart": "2026-11-16",
-    "applicationEnd": "2026-11-30",
-    "schedules": [
-      {
-        "stage": "application_start",
-        "label": "접수 시작",
-        "date": "2026-11-16"
-      },
-      {
-        "stage": "application_end",
-        "label": "접수 마감",
-        "date": "2026-11-30"
-      }
-    ],
-    "selectionQuotas": {
-      "documentQuota": "공고문 기준",
-      "isDocumentPassAll": false,
-      "writtenQuota": "전형별 선발"
-    },
-    "coverLetterQuestions": [
-      {
-        "number": 1,
-        "title": "한국마사회 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
-        "maxChars": 800
-      }
-    ],
-    "summary": "모집직종(8개 분야): 출발보조(과천) / 출발보조(영남) / 불법경마단속(과천) / 불법경마단속(영남) / 아나운서(과천) / 전산시스템개발(과천) / 승마지원(부경) / 승마체험운영(과천)\n표준직무(NCS): 경영·회계·사무, 법률·경찰·소방·교도·국방, 문화·예술·디자인·방송, 이용·숙박·여행·오락·스포츠, 기계, 정보통신, 농림어업",
-    "mainDuties": [
-      "출발보조(과천)",
-      "출발보조(영남)",
-      "불법경마단속(과천)",
-      "불법경마단속(영남)",
-      "아나운서(과천)",
-      "전산시스템개발(과천)",
-      "승마지원(부경)",
-      "승마체험운영(과천)",
-      "표준직무(NCS): 경영·회계·사무, 법률·경찰·소방·교도·국방, 문화·예술·디자인·방송, 이용·숙박·여행·오락·스포츠, 기계, 정보통신, 농림어업",
-      "근무분야: 계약직"
-    ],
-    "qualifications": [
-      "<공통 지원자격>",
-      "- 한국마사회 「인사규정」 상 채용 결격사유가 없는 자",
-      "- 고용예정일부터 근무가 가능한 자",
-      "※ 고용예정일 : (아나운서, 승마지원) '26. 12. 30.(수) / (출발보조, 불법경마단속, 전산시스템개발, 승마체험운영) '27. 1. 1.(금)",
-      "<직무별 지원자격>",
-      "(1) 출발보조(2명)",
-      "- 만 60세 이상인 자(상한연령: 만 65세), 경주마관리 경력 5년 이상인 자",
-      "(2) 불법경마단속(2명)",
-      "- 만 60세 이상인 자(상한연령: 만 65세), 경찰에서 수사(형사) 업무에 10년 이상 종사한 자, 1종 보통 이상 운전면허 소지자",
-      "(3) 아나운서(휴직대체, 1명)",
-      "- 방송사 아나운서 경력 5년 이상인 자",
-      "(4) 전산시스템개발(휴직대체, 1명)",
-      "□ 공고 및 접수기간",
-      "- 공고 및 접수기간 : '26. 11. 16.(월)~'26. 11. 30.(월) 16시",
-      "- 접수방법 : 온라인 접수(https://recruit.incruit.com/kra/)",
-      "□ 서류전형(1차)",
-      "- 선발규모 : 채용 예정인원의 5배수 *아나운서 15배수",
-      "- 평가요소 : 업무전문성(정량, 50점), 근무적합성(정성, 50점)"
-    ],
-    "preferredCerts": [
-      "전기기사",
-      "정보처리기사",
-      "한국사능력검정 1급",
-      "컴퓨터활용능력 1급"
-    ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307033",
-    "sourcePlatform": "JOB-ALIO",
-    "isMedicalExcluded": false,
-    "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
-  },
-  {
-    "id": "alio-live-307004",
-    "organization": "학교법인한국폴리텍",
-    "orgShortName": "학교법인",
-    "orgType": "공공기관",
-    "title": "한국폴리텍대학 춘천캠퍼스 업무직(대학운영직_영선원) 채용 공고",
-    "categories": [
-      "mech_material"
-    ],
-    "subDomainTags": [
-      "기계",
-      "운영직",
-      "무기계약직"
-    ],
-    "employmentType": "무기계약직",
     "location": "강원",
     "detailLocation": "강원",
     "headcount": "1명",
-    "experienceLevel": "신입+경력",
+    "experienceLevel": "신입",
     "educationRequired": "학력무관",
     "applicationStart": "2026-11-16",
     "applicationEnd": "2026-11-23",
@@ -133,35 +34,36 @@
       }
     ],
     "selectionQuotas": {
-      "documentQuota": "서류 적부",
-      "isDocumentPassAll": true,
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
       "writtenQuota": "전형별 선발"
     },
     "coverLetterQuestions": [
       {
         "number": 1,
-        "title": "학교법인한국폴리텍 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "title": "근로복지공단 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 업무직(대학운영직_영선원)\n표준직무(NCS): 기계",
+    "summary": "모집직종(1개 분야): 기간제 의사_응급실전담\n표준직무(NCS): 보건·의료",
     "mainDuties": [
-      "업무직(대학운영직_영선원)",
-      "표준직무(NCS): 기계",
-      "근무분야: 운영직"
+      "기간제 의사_응급실전담",
+      "표준직무(NCS): 보건·의료",
+      "근무분야: 계약직"
     ],
     "qualifications": [
-      "○ (연령) 제한 없음(단, 정년 만 60세 적용)",
-      "○ (남자의 경우) 병역을 필하였거나 면제된 자",
-      "○ 해당직무 수행이 가능하며, 임용(예정)일부터 즉시 근무 가능한 자",
-      "○ 학력·전공 제한 없음",
-      "○ 학교법인한국폴리텍 인사규정 제19조의 결격 사유(아래)가 없는 자",
-      "1. 서류전형",
-      "○ 서류전형에서는 기본 자격을 충족하는 지원자 전원을 면접전형 대상으로 선정",
-      "○ 지원서 작성 오류(소정양식 미사용, 응시원서 작성 오류 등) 등을 제외한 전원에게 면접전형 응시 기회 부여",
-      "2. 면접전형",
-      "○ 서류전형 합격자에 한하며, 당해 직무수행에 필요한 능력 및 적격성 검증",
-      "3. 최종합격자 발표: 2026. 11. 27.(금)"
+      "ㅇ 채용분야 응시자격",
+      "- 의료법상 의사 면허 소지자",
+      "* 모든 전형 응시자격은 응시원서 마감일 기준",
+      "ㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는 자",
+      "※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자",
+      "ㅇ 기타: 임용예정일 즉시 근무가 가능한 자",
+      "※ 임용일은 공단 사정에 따라 변경될 수 있음",
+      "ㅇ 연령요건 : 제한 없음",
+      "ㅇ 전형방법 : 서류전형(1차) → 면접전형(2차)",
+      "- 1차 : 응시 자격기준 해당자 전원 합격 처리",
+      "- 2차 : 개별 면접(내부 및 외부위원 구성)",
+      "* 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다."
     ],
     "preferredCerts": [
       "전기기사",
@@ -169,20 +71,20 @@
       "한국사능력검정 1급",
       "컴퓨터활용능력 1급"
     ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307004",
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307058",
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
-    "id": "alio-live-307005",
+    "id": "alio-live-306890",
     "organization": "기초과학연구원",
     "orgShortName": "기초과학",
     "orgType": "공공기관",
-    "title": "제2026-7회 기초과학연구원 원자제어 저차원 전자계 연구단 연구직 채용 공고",
+    "title": "2026-4 Recruitment Announcement for Senior Researcher Positions at the CTPU-CGA",
     "categories": [
-      "elec_hardware"
+      "it_sw"
     ],
     "subDomainTags": [
       "연구",
@@ -190,13 +92,13 @@
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
-    "location": "경북",
-    "detailLocation": "경북",
-    "headcount": "2명",
+    "location": "대전",
+    "detailLocation": "대전",
+    "headcount": "4명",
     "experienceLevel": "신입+경력",
-    "educationRequired": "석사, 박사",
+    "educationRequired": "학력무관, 박사",
     "applicationStart": "2026-11-16",
-    "applicationEnd": "2026-12-01",
+    "applicationEnd": "2026-12-27",
     "schedules": [
       {
         "stage": "application_start",
@@ -206,7 +108,7 @@
       {
         "stage": "application_end",
         "label": "접수 마감",
-        "date": "2026-12-01"
+        "date": "2026-12-27"
       }
     ],
     "selectionQuotas": {
@@ -221,26 +123,24 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(2개 분야): 1. 연구직/선임연구원 / 2. 연구기술직\n표준직무(NCS): 연구",
+    "summary": "모집직종(1개 분야): 1. Senior Researcher\n표준직무(NCS): 연구",
     "mainDuties": [
-      "1. 연구직/선임연구원",
-      "2. 연구기술직",
+      "1. Senior Researcher",
       "표준직무(NCS): 연구",
       "근무분야: 연구직"
     ],
     "qualifications": [
-      "ㅇ 채용공고문에서 제시한 지원자격을 충족하는 자",
-      "- 모집분야별 지원자격 등 세부 내용은 공고문 참고",
-      "[응시자격 공통]",
-      "ㅇ「국가공무원법」제33조 및 연구원 규정에 의한 임용 결격사유가 없는 자",
-      "ㅇ「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」제82조에 따른 비위면직자에 해당하지 않는 자",
-      "ㅇ 해외여행에 결격사유가 없는 자로 남자의 경우 병역필 또는 면제자",
-      "- 전문연구요원 지원 가능 공고인 경우, 전직자에 한해 지원 가능",
-      "ㅇ 응시서류접수 마감일 기준 지원자격 충족자",
-      "[전형절차]",
-      "ㅇ 1단계 (서류전형)",
-      "ㅇ 2단계 (면접전형)",
-      "※ 합격 배수, 전형 일정 등 세부 내용은 공고문 참고"
+      "ㅇ Candiates who meet the requiremens stated in the job opening",
+      "- For detailed information, please see the attached job opening",
+      "[Required qualifications]",
+      "ㅇ Must be in compliance with the requirements for appointments as specified in Article 33 of the State Public Officials Act and IBS statutes.",
+      "ㅇ If candidates are found to be former public officials dismissed for corruption as set forth in Article 82 of the Act on the Prevention of Corruption and the Establishment of the Anti-corruption and Civil Rights Commission, the job offer will be withdrawn.",
+      "ㅇ Must have no restrictions traveling overseas. Male applicants must have completed or be exempted from compulsory military service.",
+      "ㅇ Must meet the requirements by the end of the application deadline.",
+      "[Screening process]",
+      "ㅇ Step 1(Document screening)",
+      "ㅇ Step 2(Interview screening)",
+      "- For detailed information, please see the attached job opening"
     ],
     "preferredCerts": [
       "전기기사",
@@ -248,38 +148,34 @@
       "한국사능력검정 1급",
       "컴퓨터활용능력 1급"
     ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307005",
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306890",
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
-    "id": "alio-live-306979",
-    "organization": "한국공정거래조정원",
-    "orgShortName": "한국공정",
+    "id": "alio-live-307011",
+    "organization": "부산대학교병원",
+    "orgShortName": "부산대학",
     "orgType": "공공기관",
-    "title": "한국공정거래조정원 2026년 제5차 기간제 근로자 채용 공고",
+    "title": "영상의학과 전문의 상시 모집 공고",
     "categories": [
-      "admin_biz",
-      "it_sw",
-      "rf_telecom"
+      "admin_biz"
     ],
     "subDomainTags": [
-      "경영·회계·사무",
-      "정보통신",
-      "연구",
-      "행정직, 사무직, 연구직, 전산직, 계약직",
+      "보건·의료",
+      "의사직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
-    "location": "서울",
-    "detailLocation": "서울",
-    "headcount": "6명",
-    "experienceLevel": "신입",
-    "educationRequired": "학력무관, 석사",
+    "location": "부산",
+    "detailLocation": "부산",
+    "headcount": "1명",
+    "experienceLevel": "경력",
+    "educationRequired": "학력무관",
     "applicationStart": "2026-11-16",
-    "applicationEnd": "2026-12-01",
+    "applicationEnd": "2026-12-31",
     "schedules": [
       {
         "stage": "application_start",
@@ -289,7 +185,7 @@
       {
         "stage": "application_end",
         "label": "접수 마감",
-        "date": "2026-12-01"
+        "date": "2026-12-31"
       }
     ],
     "selectionQuotas": {
@@ -300,38 +196,21 @@
     "coverLetterQuestions": [
       {
         "number": 1,
-        "title": "한국공정거래조정원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "title": "부산대학교병원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(4개 분야): 경쟁영향평가 석사급 연구 전문인력(석사급 제한경쟁) / 정보화 전문인력(정보화 제한경쟁) / 가맹점주 단체등록 심사 전문인력(가맹거래사 제한경쟁) / 가맹점주 단체등록 심사 업무지원 인력\n표준직무(NCS): 경영·회계·사무, 정보통신, 연구",
+    "summary": "모집직종(1개 분야): [영상의학과] 전문의\n표준직무(NCS): 보건·의료",
     "mainDuties": [
-      "경쟁영향평가 석사급 연구 전문인력(석사급 제한경쟁)",
-      "정보화 전문인력(정보화 제한경쟁)",
-      "가맹점주 단체등록 심사 전문인력(가맹거래사 제한경쟁)",
-      "가맹점주 단체등록 심사 업무지원 인력",
-      "표준직무(NCS): 경영·회계·사무, 정보통신, 연구",
-      "근무분야: 행정직, 사무직, 연구직, 전산직, 계약직"
+      "[영상의학과] 전문의",
+      "표준직무(NCS): 보건·의료",
+      "근무분야: 의사직"
     ],
     "qualifications": [
-      "[공통]",
-      "ㅇ 성별, 연령 제한 없음",
-      "- 단, 채용예정일 기준 우리 원 인사규정상 정년(만 60세) 미만인 자",
-      "ㅇ 병역의무대상자의 경우 군필자 또는 면제자",
-      "ㅇ 우리 원 인사규정에 의한 채용결격사유에 해당되지 않는 자",
-      "※ 채용결격사유(우리 원 인사규정 제10조)*",
-      "- 국가공무원법 제33조 각 호의 어느 하나에 해당하는 자",
-      "- 병역법에 의한 병역기피자",
-      "-「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」제82조에 따른 비위면직자 등 취업제한 적용을 받는 자",
-      "ㅇ 2027. 1. 25.(월)부터 근무 가능한 자",
-      "* 특정 신체적 조건이 필요하지 않은 직무로 신체검사 생략 및 채용결격사유 내 미포함",
-      "[경쟁영향평가 석사급 연구 전문인력(석사급 제한경쟁)]",
-      "ㅁ 원서접수 : 2026. 11. 16.(월) ~ 2026. 12. 1.(화)",
-      "ㅇ 온라인 지원 : https://kofair.fairyhr.com/",
-      "※ 2026. 12. 1.(화) 낮 12:00 접수마감 (최종제출 기준)",
-      "ㅁ 서류전형(예정) : 2026. 12. 2.(수) ~ 2026. 12. 22.(화)",
-      "ㅇ 심사대상 : 응시자 전원",
-      "ㅇ 심사내용 : 자격사항, 교육사항, 경력사항, 자기소개서 평가"
+      "- 영상의학과 전문의",
+      "- 상급종합병원 신경두경부 분야 2년 이상(전임의 포함)",
+      "1차 서류전형",
+      "2차 면접전형"
     ],
     "preferredCerts": [
       "전기기사",
@@ -339,11 +218,87 @@
       "한국사능력검정 1급",
       "컴퓨터활용능력 1급"
     ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306979",
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307011",
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-306981",
+    "organization": "부산대학교병원",
+    "orgShortName": "부산대학",
+    "orgType": "공공기관",
+    "title": "2027 양산부산대학교병원 정신건강임상심리사 수련생 모집 공고",
+    "categories": [
+      "admin_biz"
+    ],
+    "subDomainTags": [
+      "보건·의료",
+      "계약직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "경남",
+    "detailLocation": "경남",
+    "headcount": "2명",
+    "experienceLevel": "신입",
+    "educationRequired": "대졸(4년), 석사",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-30",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-30"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "서류 적부",
+      "isDocumentPassAll": true,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "부산대학교병원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 정신건강임상심리사 수련생\n표준직무(NCS): 보건·의료",
+    "mainDuties": [
+      "정신건강임상심리사 수련생",
+      "표준직무(NCS): 보건·의료",
+      "근무분야: 계약직"
+    ],
+    "qualifications": [
+      "1. 심리학을 전공한 학사학위 및 석사학위(2027년 2월 취득 예정자 포함) 소지자",
+      "2. 정신건강임상심리사 1급 수련자격 인정과목(보건복지부장관이 정하는 임상심리 관련과목)",
+      "이수 및 기타 수련자격에 결격사유가 없는 자",
+      "3. 남자인 경우 군필 또는 군 면제자",
+      "1. 전형절차",
+      "가. 1차 서류전형 (적격 심사)",
+      "나. 2차 필기시험 (객관식 및 단답형) 100점",
+      "다. 3차 면접시험 (면접 및 인성검사) 100점",
+      "다. 최종합격자 발표(필기시험 60% + 면접시험 40%)",
+      "2. 합격자 결정(직원임용시험에 관한 시행세칙)"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306981",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307024",
@@ -451,28 +406,269 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
-    "id": "alio-live-306981",
-    "organization": "부산대학교병원",
-    "orgShortName": "부산대학",
+    "id": "alio-live-306979",
+    "organization": "한국공정거래조정원",
+    "orgShortName": "한국공정",
     "orgType": "공공기관",
-    "title": "2027 양산부산대학교병원 정신건강임상심리사 수련생 모집 공고",
+    "title": "한국공정거래조정원 2026년 제5차 기간제 근로자 채용 공고",
     "categories": [
-      "admin_biz"
+      "admin_biz",
+      "it_sw",
+      "rf_telecom"
     ],
     "subDomainTags": [
-      "보건·의료",
+      "경영·회계·사무",
+      "정보통신",
+      "연구",
+      "행정직, 사무직, 연구직, 전산직, 계약직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "서울",
+    "detailLocation": "서울",
+    "headcount": "6명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력무관, 석사",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-12-01",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-12-01"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국공정거래조정원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(4개 분야): 경쟁영향평가 석사급 연구 전문인력(석사급 제한경쟁) / 정보화 전문인력(정보화 제한경쟁) / 가맹점주 단체등록 심사 전문인력(가맹거래사 제한경쟁) / 가맹점주 단체등록 심사 업무지원 인력\n표준직무(NCS): 경영·회계·사무, 정보통신, 연구",
+    "mainDuties": [
+      "경쟁영향평가 석사급 연구 전문인력(석사급 제한경쟁)",
+      "정보화 전문인력(정보화 제한경쟁)",
+      "가맹점주 단체등록 심사 전문인력(가맹거래사 제한경쟁)",
+      "가맹점주 단체등록 심사 업무지원 인력",
+      "표준직무(NCS): 경영·회계·사무, 정보통신, 연구",
+      "근무분야: 행정직, 사무직, 연구직, 전산직, 계약직"
+    ],
+    "qualifications": [
+      "[공통]",
+      "ㅇ 성별, 연령 제한 없음",
+      "- 단, 채용예정일 기준 우리 원 인사규정상 정년(만 60세) 미만인 자",
+      "ㅇ 병역의무대상자의 경우 군필자 또는 면제자",
+      "ㅇ 우리 원 인사규정에 의한 채용결격사유에 해당되지 않는 자",
+      "※ 채용결격사유(우리 원 인사규정 제10조)*",
+      "- 국가공무원법 제33조 각 호의 어느 하나에 해당하는 자",
+      "- 병역법에 의한 병역기피자",
+      "-「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」제82조에 따른 비위면직자 등 취업제한 적용을 받는 자",
+      "ㅇ 2027. 1. 25.(월)부터 근무 가능한 자",
+      "* 특정 신체적 조건이 필요하지 않은 직무로 신체검사 생략 및 채용결격사유 내 미포함",
+      "[경쟁영향평가 석사급 연구 전문인력(석사급 제한경쟁)]",
+      "ㅁ 원서접수 : 2026. 11. 16.(월) ~ 2026. 12. 1.(화)",
+      "ㅇ 온라인 지원 : https://kofair.fairyhr.com/",
+      "※ 2026. 12. 1.(화) 낮 12:00 접수마감 (최종제출 기준)",
+      "ㅁ 서류전형(예정) : 2026. 12. 2.(수) ~ 2026. 12. 22.(화)",
+      "ㅇ 심사대상 : 응시자 전원",
+      "ㅇ 심사내용 : 자격사항, 교육사항, 경력사항, 자기소개서 평가"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306979",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307005",
+    "organization": "기초과학연구원",
+    "orgShortName": "기초과학",
+    "orgType": "공공기관",
+    "title": "제2026-7회 기초과학연구원 원자제어 저차원 전자계 연구단 연구직 채용 공고",
+    "categories": [
+      "elec_hardware"
+    ],
+    "subDomainTags": [
+      "연구",
+      "연구직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "경북",
+    "detailLocation": "경북",
+    "headcount": "2명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "석사, 박사",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-12-01",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-12-01"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "기초과학연구원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(2개 분야): 1. 연구직/선임연구원 / 2. 연구기술직\n표준직무(NCS): 연구",
+    "mainDuties": [
+      "1. 연구직/선임연구원",
+      "2. 연구기술직",
+      "표준직무(NCS): 연구",
+      "근무분야: 연구직"
+    ],
+    "qualifications": [
+      "ㅇ 채용공고문에서 제시한 지원자격을 충족하는 자",
+      "- 모집분야별 지원자격 등 세부 내용은 공고문 참고",
+      "[응시자격 공통]",
+      "ㅇ「국가공무원법」제33조 및 연구원 규정에 의한 임용 결격사유가 없는 자",
+      "ㅇ「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」제82조에 따른 비위면직자에 해당하지 않는 자",
+      "ㅇ 해외여행에 결격사유가 없는 자로 남자의 경우 병역필 또는 면제자",
+      "- 전문연구요원 지원 가능 공고인 경우, 전직자에 한해 지원 가능",
+      "ㅇ 응시서류접수 마감일 기준 지원자격 충족자",
+      "[전형절차]",
+      "ㅇ 1단계 (서류전형)",
+      "ㅇ 2단계 (면접전형)",
+      "※ 합격 배수, 전형 일정 등 세부 내용은 공고문 참고"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307005",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307004",
+    "organization": "학교법인한국폴리텍",
+    "orgShortName": "학교법인",
+    "orgType": "공공기관",
+    "title": "한국폴리텍대학 춘천캠퍼스 업무직(대학운영직_영선원) 채용 공고",
+    "categories": [
+      "mech_material"
+    ],
+    "subDomainTags": [
+      "무기계약직"
+    ],
+    "employmentType": "무기계약직",
+    "location": "강원",
+    "detailLocation": "강원",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-23",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-23"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "학교법인한국폴리텍 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "학교법인한국폴리텍 한국폴리텍대학 춘천캠퍼스 업무직(대학운영직_영선원) 채용 공고",
+    "mainDuties": [
+      "세부 직무기술서 및 채용공고문 참조"
+    ],
+    "qualifications": [
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307004",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307033",
+    "organization": "한국마사회",
+    "orgShortName": "한국마사",
+    "orgType": "공공기관",
+    "title": "2026년 한국마사회 위촉직(계약직) 채용공고",
+    "categories": [
+      "admin_biz",
+      "mech_material",
+      "it_sw",
+      "emc_auto_def",
+      "rf_telecom"
+    ],
+    "subDomainTags": [
+      "경영·회계·사무",
+      "법률·경찰·소방·교도·국방",
+      "문화·예술·디자인·방송",
+      "이용·숙박·여행·오락·스포츠",
+      "기계",
       "계약직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
-    "location": "경남",
-    "detailLocation": "경남",
-    "headcount": "2명",
-    "experienceLevel": "신입",
-    "educationRequired": "대졸(4년), 석사",
+    "location": "부산, 경기, 경북",
+    "detailLocation": "부산, 경기, 경북",
+    "headcount": "8명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
     "applicationStart": "2026-11-16",
     "applicationEnd": "2026-11-30",
     "schedules": [
@@ -488,8 +684,786 @@
       }
     ],
     "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국마사회 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(8개 분야): 출발보조(과천) / 출발보조(영남) / 불법경마단속(과천) / 불법경마단속(영남) / 아나운서(과천) / 전산시스템개발(과천) / 승마지원(부경) / 승마체험운영(과천)\n표준직무(NCS): 경영·회계·사무, 법률·경찰·소방·교도·국방, 문화·예술·디자인·방송, 이용·숙박·여행·오락·스포츠, 기계, 정보통신, 농림어업",
+    "mainDuties": [
+      "출발보조(과천)",
+      "출발보조(영남)",
+      "불법경마단속(과천)",
+      "불법경마단속(영남)",
+      "아나운서(과천)",
+      "전산시스템개발(과천)",
+      "승마지원(부경)",
+      "승마체험운영(과천)",
+      "표준직무(NCS): 경영·회계·사무, 법률·경찰·소방·교도·국방, 문화·예술·디자인·방송, 이용·숙박·여행·오락·스포츠, 기계, 정보통신, 농림어업",
+      "근무분야: 계약직"
+    ],
+    "qualifications": [
+      "<공통 지원자격>",
+      "- 한국마사회 「인사규정」 상 채용 결격사유가 없는 자",
+      "- 고용예정일부터 근무가 가능한 자",
+      "※ 고용예정일 : (아나운서, 승마지원) '26. 12. 30.(수) / (출발보조, 불법경마단속, 전산시스템개발, 승마체험운영) '27. 1. 1.(금)",
+      "<직무별 지원자격>",
+      "(1) 출발보조(2명)",
+      "- 만 60세 이상인 자(상한연령: 만 65세), 경주마관리 경력 5년 이상인 자",
+      "(2) 불법경마단속(2명)",
+      "- 만 60세 이상인 자(상한연령: 만 65세), 경찰에서 수사(형사) 업무에 10년 이상 종사한 자, 1종 보통 이상 운전면허 소지자",
+      "(3) 아나운서(휴직대체, 1명)",
+      "- 방송사 아나운서 경력 5년 이상인 자",
+      "(4) 전산시스템개발(휴직대체, 1명)",
+      "□ 공고 및 접수기간",
+      "- 공고 및 접수기간 : '26. 11. 16.(월)~'26. 11. 30.(월) 16시",
+      "- 접수방법 : 온라인 접수(https://recruit.incruit.com/kra/)",
+      "□ 서류전형(1차)",
+      "- 선발규모 : 채용 예정인원의 5배수 *아나운서 15배수",
+      "- 평가요소 : 업무전문성(정량, 50점), 근무적합성(정성, 50점)"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307033",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307034",
+    "organization": "한전KPS(주)",
+    "orgShortName": "한전KP",
+    "orgType": "공공기관",
+    "title": "한전KPS(주) 서울경기전력지사 양주지점 단기노무원(부지정리) 모집",
+    "categories": [
+      "elec_hardware"
+    ],
+    "subDomainTags": [
+      "전기·전자",
+      "기타(부지정리)",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "경기",
+    "detailLocation": "경기",
+    "headcount": "2명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-20",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-20"
+      }
+    ],
+    "selectionQuotas": {
       "documentQuota": "서류 적부",
       "isDocumentPassAll": true,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한전KPS(주) 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 부지정리\n표준직무(NCS): 전기·전자",
+    "mainDuties": [
+      "부지정리",
+      "표준직무(NCS): 전기·전자",
+      "근무분야: 기타(부지정리)"
+    ],
+    "qualifications": [
+      "채용예정일 즉시 근무 가능한 자",
+      "1.채용인원 : 2명",
+      "2.채용기간(예정) : 2026.12.1(화) ~ 2026.12.31(목)",
+      "3.전형절차 : 서류접수->면접전형->신체검사(적부판정)->합격자 발표",
+      "4.접수방법 : E-mail접수, 우편/방문접수",
+      "5.제출서류",
+      "가. 채용 전 : 블라인드 입사지원서 1부"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307034",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307035",
+    "organization": "한국보훈복지의료공단",
+    "orgShortName": "한국보훈",
+    "orgType": "공공기관",
+    "title": "[보훈재활체육센터] 업무지원직(시설지원-청소,경비) 채용 공고",
+    "categories": [
+      "mech_material",
+      "civil_arch"
+    ],
+    "subDomainTags": [
+      "경비·청소",
+      "위생직",
+      "무기계약직"
+    ],
+    "employmentType": "무기계약직",
+    "location": "경기",
+    "detailLocation": "경기",
+    "headcount": "2명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-26",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-26"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국보훈복지의료공단 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(2개 분야): 업무지원직(시설지원-청소) / 업무지원직(시설지원-경비)\n표준직무(NCS): 경비·청소",
+    "mainDuties": [
+      "업무지원직(시설지원-청소)",
+      "업무지원직(시설지원-경비)",
+      "표준직무(NCS): 경비·청소",
+      "근무분야: 위생직"
+    ],
+    "qualifications": [
+      "가. 업무지원직(시설지원)-청소",
+      "① 인사규정 제18조(결격사유)에 해당하지 않는 자",
+      "② 업무지원직 인사관리 시행세칙 제13조(정년)에 따른 정년(65세)을 초과하지 않는 자",
+      "나. 업무지원직(시설지원)-경비",
+      "① 인사규정 제18조(결격사유)에 해당하지 않는 자",
+      "② 업무지원직 인사관리 시행세칙 제13조(정년)에 따른 정년(65세)을 초과하지 않는 자",
+      "③ 경비업법 제10조(경비지도사 및 경비원의 결격사유)의 결격사유에 해당하지 않는 자",
+      "④ 일반경비원 신임교육 이수증 소지자 및 경비업법 시행령 제18조 2항에 해당하는 자",
+      "○ 1차(서류전형)",
+      "- 서류접수기간: 2026.11.16.(월)~2026.11.26.(목) 14:00까지",
+      "- 접수방법: 채용지원 사이트(https://bohun.fairyhr.com)",
+      "- 제출서류: (필수) 입사지원서, 자기소개서, 직무역량소개서",
+      "(해당자) 필수 지원자격 증빙서류(경비), 가점 증명서, 해당분야 경력(재직) 증명서",
+      "- 서류합격자발표일: 2026.11.30.(월) 16:00(예정)"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307035",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307036",
+    "organization": "국토연구원",
+    "orgShortName": "국토연구",
+    "orgType": "공공기관",
+    "title": "2026년 제3차 시설직(미화원·기술원) 공개채용",
+    "categories": [
+      "mech_material",
+      "civil_arch"
+    ],
+    "subDomainTags": [
+      "경비·청소",
+      "건설",
+      "시설직",
+      "무기계약직"
+    ],
+    "employmentType": "무기계약직",
+    "location": "세종",
+    "detailLocation": "세종",
+    "headcount": "2명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-30",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-30"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "국토연구원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(2개 분야): 청사시설 내부 미화(청소원) / 기계관리\n표준직무(NCS): 경비·청소, 건설",
+    "mainDuties": [
+      "청사시설 내부 미화(청소원)",
+      "기계관리",
+      "표준직무(NCS): 경비·청소, 건설",
+      "근무분야: 시설직"
+    ],
+    "qualifications": [
+      "○ 국가공무원법 제74조 정년(60세)에 해당하지 않는 자",
+      "※ 남자의 경우 병역필 또는 면제자. 단, 입사일 이전 전역예정자로서 전형절차에 응시 가능한 자는 지원 가능",
+      "○ 미화관리 업무수행 능력이 있는자",
+      "○ 기계 관리 업무 수행능력이 있는 자로, 아래 요건을 모두 충족하는 자",
+      "- 공조냉동기계기능사 이상 또는 에너지관리기능사 이상 자격 소지자",
+      "- 기계(냉·난방기 등) 관리 업무 경력이 3년 이상인 자",
+      "- 4교대(주간-주간-당직-휴무) 근무가 가능한 자",
+      "※ 감시적·단속적 근로자 적용에 동의하는 자",
+      "○ 건축 관리(건물영선원) 업무 경력이 3년 이상인 자",
+      "○ 1차(서류전형) - 인성검사 - 2차(일반면접)",
+      "※ 인성검사를 응시한 서류전형 합격자를 대상으로 일반면접전형 실시",
+      "- 서류전형: 만점의 70% 이상 득점자 중 점수순위로 6배수 선발",
+      "- 만점의 80%이상 득점자 중 점수 순위로 결정"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307036",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307040",
+    "organization": "학교법인한국폴리텍",
+    "orgShortName": "학교법인",
+    "orgType": "공공기관",
+    "title": "한국폴리텍대학 대전캠퍼스 행정지원직(사무직원 휴직대체 인력) 채용 공고",
+    "categories": [
+      "admin_biz"
+    ],
+    "subDomainTags": [
+      "경영·회계·사무",
+      "사무직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "대전",
+    "detailLocation": "대전",
+    "headcount": "1명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-24",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-24"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "서류 적부",
+      "isDocumentPassAll": true,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "학교법인한국폴리텍 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 비정규직(행정지원직)\n표준직무(NCS): 경영·회계·사무",
+    "mainDuties": [
+      "비정규직(행정지원직)",
+      "표준직무(NCS): 경영·회계·사무",
+      "근무분야: 사무직"
+    ],
+    "qualifications": [
+      "다음 각 항의 조건을 모두 충족하는 자",
+      "- (연령·학력·성별) 제한없음",
+      "- OA 프로그램(한글, 엑셀, 파워포인트 등) 활용을 통한 해당 직무수행이 가능한 자",
+      "- 학교법인 인사규정 제19조의 결격사유에 해당하지 않는 자",
+      "- 최종합격자 발표 후 즉시 근무가능한 자 (‘26.12.14. 임용 예정)",
+      "* 부패방지권익위법 제82조에 따른 비위면직자는 5년간 공공기관 취업 제한",
+      "1. 서류심사: 응시자격 확인 및 지정서류 준수 등 적격여부 심사",
+      "2. 면접심사: 서류심사 합격자에 한하며, 당해 직무수행에 필요한 능력 및 적격성 검증",
+      "- 평가항목 및 배점: 직업윤리(20), 문제해결능력(20), 대인관계능력(20), 의사소통능력(20), 직무전문성(20)",
+      "* 자세한 사항은 공고문 참조"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307040",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307043",
+    "organization": "한전KPS(주)",
+    "orgShortName": "한전KP",
+    "orgType": "공공기관",
+    "title": "한전KPS(주) 서울경기전력지사 군포지점 철탑기초 부지정비 모집",
+    "categories": [
+      "elec_hardware"
+    ],
+    "subDomainTags": [
+      "전기·전자",
+      "계약직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "경기",
+    "detailLocation": "경기",
+    "headcount": "4명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-20",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-20"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "서류 적부",
+      "isDocumentPassAll": true,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한전KPS(주) 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 철탑기초 부지정비\n표준직무(NCS): 전기·전자",
+    "mainDuties": [
+      "철탑기초 부지정비",
+      "표준직무(NCS): 전기·전자",
+      "근무분야: 계약직"
+    ],
+    "qualifications": [
+      "1. 채용예정일 즉시 근무 가능한 자",
+      "1.전형절차 : 서류접수->면접전형->신체검사(적부판정)->합격자 발표,",
+      "2.접수방법 : 우편접수, E-mail접수, 방문접수,",
+      "3.제출서류",
+      "가. 채용 전 : 블라인드 입사지원서 1부",
+      "나. 면접 시 : 우대사항 증빙서류(해당자에 한함)",
+      "다. 채용 후 : 신분증 사본, 본인명의 통장사본, 운전면허증 사본"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307043",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307044",
+    "organization": "한국청소년상담복지개발원",
+    "orgShortName": "한국청소",
+    "orgType": "공공기관",
+    "title": "제2026-7호 한국청소년상담복지개발원 직원(온라인상담원) 모집",
+    "categories": [
+      "admin_biz"
+    ],
+    "subDomainTags": [
+      "교육·자연·사회과학",
+      "사회복지·종교",
+      "상담직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "서울, 인천, 대전, 대구, 부산, 울산, 경기, 강원, 충남, 충북, 경북, 경남, 전북, 제주, 세종, 전남광주",
+    "detailLocation": "서울, 인천, 대전, 대구, 부산, 울산, 경기, 강원, 충남, 충북, 경북, 경남, 전북, 제주, 세종, 전남광주",
+    "headcount": "19명",
+    "experienceLevel": "신입",
+    "educationRequired": "대졸(4년), 석사",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-12-01",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-12-01"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국청소년상담복지개발원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 기간제(온라인상담) (19명 (※육아휴직 대체 4명 포함))\n표준직무(NCS): 교육·자연·사회과학, 사회복지·종교",
+    "mainDuties": [
+      "기간제(온라인상담) (19명 (※육아휴직 대체 4명 포함))",
+      "표준직무(NCS): 교육·자연·사회과학, 사회복지·종교",
+      "근무분야: 상담직"
+    ],
+    "qualifications": [
+      "ㅇ 기간제(온라인상담) 온라인상담원 (19명)",
+      "- 아래 응시자격 중 하나 이상 충족하는 자",
+      "1. 관련분야의 석사학위 취득자",
+      "2. 관련분야의 학사학위 취득자로서 관련분야 실무경력 2년 이상인 자",
+      "3. 기타 이와 동등한 자격이 있다고 인정되는 자",
+      "ㅇ서류심사",
+      "- 선발예정배수 : 10배수 이내",
+      "- 평가방법 및 배점 : 정량평가 35%(자격증, 연구실적), 정성평가 65%(경력 및 경험사항, 직무수행계획, 자기소개서)",
+      "ㅇ면접심사",
+      "- 선발예정배수 : 1배수",
+      "- 평가방법 및 배점 : 직무수행능력 60%, 직업기초능력 20%, 인성 및 태도 20%"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307044",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307045",
+    "organization": "근로복지공단",
+    "orgShortName": "근로복지",
+    "orgType": "공공기관",
+    "title": "[군산지사] 기간제(사무원) 채용 공고",
+    "categories": [
+      "admin_biz"
+    ],
+    "subDomainTags": [
+      "경영·회계·사무",
+      "계약직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "전북",
+    "detailLocation": "전북",
+    "headcount": "1명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-23",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-23"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "근로복지공단 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 사무원(기간제)\n표준직무(NCS): 경영·회계·사무",
+    "mainDuties": [
+      "사무원(기간제)",
+      "표준직무(NCS): 경영·회계·사무",
+      "근무분야: 계약직"
+    ],
+    "qualifications": [
+      "0 「국가공무원법」 제33조 및 공단 「인사규정」 제14조 규정에 저촉되지 않는 자",
+      "0 학력·경력·연령 제한 없음",
+      "0 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자",
+      "- 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자",
+      "0 임용예정일 즉시 근무가 가능한 자",
+      "- 임용일은 공단 사정에 따라 변경될 수 있음",
+      "0 대한민국 국적을 보유한 자",
+      "0 전형방법: 서류전형(1차) -> 면접전형(2차) 및 서류검증 -> 임용후보자 등록",
+      "- 서류전형(1차) : 채용예정인원의 5배수, 응시원서 기준 정량평가(100점, 단 가점 적용시 110점) / 항목별 배점(채용공고문 참조)",
+      "- 면접전형(2차) : 질의응답식 개별 또는 집단면접(내ㆍ외부 위원 구성)",
+      "※ 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다."
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307045",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307046",
+    "organization": "한국도로공사서비스(주)",
+    "orgShortName": "한국도로",
+    "orgType": "공공기관",
+    "title": "한국도로공사서비스(주) 광주전남권역본부 기간제근로자 채용 공고",
+    "categories": [
+      "admin_biz"
+    ],
+    "subDomainTags": [
+      "운전·운송",
+      "기타(수납원)",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "전남광주",
+    "detailLocation": "전남광주",
+    "headcount": "96명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-30",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-30"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국도로공사서비스(주) 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 수납원\n표준직무(NCS): 운전·운송",
+    "mainDuties": [
+      "수납원",
+      "표준직무(NCS): 운전·운송",
+      "근무분야: 기타(수납원)"
+    ],
+    "qualifications": [
+      "ㅇ학력·성별·연령 : 제한없음(단, 당사 규정에 따른 채용공고일 기준 만 65세미만인 자에 한함)",
+      "ㅇ기관 인사규정 제5조의 결격사유에 해당되지 아니한 자",
+      "※ 자세한 사항은 첨부파일의 채용 공고문을 참조",
+      "ㅇ원서접수",
+      "- 접수방법 : E-mail접수 (sjh112811@exservice.co.kr)",
+      "- 접수기간 : 2026.11.16.(월)~2026.11.30.(월) 예정",
+      "- 제출내용 : 입사지원서, 개인정보활용동의서, 부가가점 해당사항 기입(취업지원대상자, 장애인 등)",
+      "ㅇ서류전형",
+      "- 선발예정인원 : 채용예정인원의 3배수 이내"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307046",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307049",
+    "organization": "국립공원공단",
+    "orgShortName": "국립공원",
+    "orgType": "공공기관",
+    "title": "[주왕산] 2026년도 주왕산국립공원 겨울철 한시인력(수익시설) 직원 채용",
+    "categories": [
+      "civil_arch"
+    ],
+    "subDomainTags": [
+      "경비·청소",
+      "계약직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "경북",
+    "detailLocation": "경북",
+    "headcount": "5명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-20",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-20"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "국립공원공단 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 기간제_한시인력(수익시설)\n표준직무(NCS): 경비·청소",
+    "mainDuties": [
+      "기간제_한시인력(수익시설)",
+      "표준직무(NCS): 경비·청소",
+      "근무분야: 계약직"
+    ],
+    "qualifications": [
+      "- 공단 인사규정 제18조(결격사유)에 해당되지 않는 자",
+      "- 근무시작(예정)일부터 근무 가능한 자",
+      "- 그 외 전공, 학력 등 제한 없음",
+      "- 경험·경력기술서(40%), 직무경력(60%)",
+      "- 가점(5~10%)"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307049",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307050",
+    "organization": "부산대학교병원",
+    "orgShortName": "부산대학",
+    "orgType": "공공기관",
+    "title": "2027년도 부산대학교병원 정신건강사회복지사 2급 수련생 모집 공고",
+    "categories": [
+      "admin_biz"
+    ],
+    "subDomainTags": [
+      "보건·의료",
+      "보건직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "부산",
+    "detailLocation": "부산",
+    "headcount": "1명",
+    "experienceLevel": "신입",
+    "educationRequired": "대졸(2~3년), 대졸(4년)",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-30",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-30"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "서류 5배수",
+      "isDocumentPassAll": false,
       "writtenQuota": "전형별 선발"
     },
     "coverLetterQuestions": [
@@ -499,23 +1473,22 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 정신건강임상심리사 수련생\n표준직무(NCS): 보건·의료",
+    "summary": "모집직종(1개 분야): 정신건강사회복지사 수련생\n표준직무(NCS): 보건·의료",
     "mainDuties": [
-      "정신건강임상심리사 수련생",
+      "정신건강사회복지사 수련생",
       "표준직무(NCS): 보건·의료",
-      "근무분야: 계약직"
+      "근무분야: 보건직"
     ],
     "qualifications": [
-      "1. 심리학을 전공한 학사학위 및 석사학위(2027년 2월 취득 예정자 포함) 소지자",
-      "2. 정신건강임상심리사 1급 수련자격 인정과목(보건복지부장관이 정하는 임상심리 관련과목)",
-      "이수 및 기타 수련자격에 결격사유가 없는 자",
-      "3. 남자인 경우 군필 또는 군 면제자",
+      "- 사회복지사 1급 자격증 소지자",
+      "- 정신건강사회복지사 2급 수련 자격에 결격 사항이 없는 자",
+      "- 남자인 경우 군필 또는 군 면제자",
       "1. 전형절차",
-      "가. 1차 서류전형 (적격 심사)",
-      "나. 2차 필기시험 (객관식 및 단답형) 100점",
-      "다. 3차 면접시험 (면접 및 인성검사) 100점",
-      "다. 최종합격자 발표(필기시험 60% + 면접시험 40%)",
-      "2. 합격자 결정(직원임용시험에 관한 시행세칙)"
+      "가. 1차(서류전형)",
+      "나. 2차(면접평가)",
+      "다. 최종 합격자 발표",
+      "2. 합격자 결정",
+      "가. 제12조 제2항 규정에 의해 서류전형을 할 경우에는 응시자의 자격, 경력 등이 소정의 기준에 적합한지 여부 등을 심사하여 선발예정인원의 5배수 범위 내에서 1차 합격자를 결정한다."
     ],
     "preferredCerts": [
       "전기기사",
@@ -523,18 +1496,18 @@
       "한국사능력검정 1급",
       "컴퓨터활용능력 1급"
     ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306981",
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307050",
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
-    "id": "alio-live-307011",
-    "organization": "부산대학교병원",
-    "orgShortName": "부산대학",
+    "id": "alio-live-307052",
+    "organization": "국립암센터",
+    "orgShortName": "국립암센",
     "orgType": "공공기관",
-    "title": "영상의학과 전문의 상시 모집 공고",
+    "title": "2027년도 국립암센터 치과의사전공의(레지던트 1년차) 모집 공고",
     "categories": [
       "admin_biz"
     ],
@@ -544,13 +1517,13 @@
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
-    "location": "부산",
-    "detailLocation": "부산",
+    "location": "경기",
+    "detailLocation": "경기",
     "headcount": "1명",
-    "experienceLevel": "경력",
-    "educationRequired": "학력무관",
+    "experienceLevel": "신입",
+    "educationRequired": "대졸(4년)",
     "applicationStart": "2026-11-16",
-    "applicationEnd": "2026-12-31",
+    "applicationEnd": "2026-11-20",
     "schedules": [
       {
         "stage": "application_start",
@@ -560,7 +1533,7 @@
       {
         "stage": "application_end",
         "label": "접수 마감",
-        "date": "2026-12-31"
+        "date": "2026-11-20"
       }
     ],
     "selectionQuotas": {
@@ -571,21 +1544,22 @@
     "coverLetterQuestions": [
       {
         "number": 1,
-        "title": "부산대학교병원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "title": "국립암센터 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): [영상의학과] 전문의\n표준직무(NCS): 보건·의료",
+    "summary": "모집직종(1개 분야): 구강악안면외과 (레지던트 1년차)\n표준직무(NCS): 보건·의료",
     "mainDuties": [
-      "[영상의학과] 전문의",
+      "구강악안면외과 (레지던트 1년차)",
       "표준직무(NCS): 보건·의료",
       "근무분야: 의사직"
     ],
     "qualifications": [
-      "- 영상의학과 전문의",
-      "- 상급종합병원 신경두경부 분야 2년 이상(전임의 포함)",
-      "1차 서류전형",
-      "2차 면접전형"
+      "○ 치과의사 인턴 수료자 또는 수료예정자 (2027년 2월)",
+      "○ 국립암센터 인사규정 제9조에 의한 결격사유에 해당하지 않는 자",
+      "○ 필기(대한치과병원협회 공동 실시)",
+      "○ 면접",
+      "○ 필기시험 50%, 인턴성적 30%, 면접성적 20%"
     ],
     "preferredCerts": [
       "전기기사",
@@ -593,34 +1567,35 @@
       "한국사능력검정 1급",
       "컴퓨터활용능력 1급"
     ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307011",
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307052",
     "sourcePlatform": "JOB-ALIO",
-    "isMedicalExcluded": false,
-    "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "isMedicalExcluded": true,
+    "excludedReason": "'치과' 키워드 포함",
+    "updatedAt": "2026-11-16 05:05"
   },
   {
-    "id": "alio-live-306890",
-    "organization": "기초과학연구원",
-    "orgShortName": "기초과학",
+    "id": "alio-live-307057",
+    "organization": "근로복지공단",
+    "orgShortName": "근로복지",
     "orgType": "공공기관",
-    "title": "2026-4 Recruitment Announcement for Senior Researcher Positions at the CTPU-CGA",
+    "title": "[정선병원] 공무직(영선·조경기사) 채용 공고",
     "categories": [
-      "it_sw"
+      "mech_material",
+      "civil_arch"
     ],
     "subDomainTags": [
-      "연구",
-      "연구직",
-      "비정규직"
+      "보건·의료",
+      "공무직",
+      "무기계약직"
     ],
-    "employmentType": "계약직/체험형",
-    "location": "대전",
-    "detailLocation": "대전",
-    "headcount": "4명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관, 박사",
+    "employmentType": "무기계약직",
+    "location": "강원",
+    "detailLocation": "강원",
+    "headcount": "1명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력무관",
     "applicationStart": "2026-11-16",
-    "applicationEnd": "2026-12-27",
+    "applicationEnd": "2026-11-23",
     "schedules": [
       {
         "stage": "application_start",
@@ -630,7 +1605,7 @@
       {
         "stage": "application_end",
         "label": "접수 마감",
-        "date": "2026-12-27"
+        "date": "2026-11-23"
       }
     ],
     "selectionQuotas": {
@@ -641,28 +1616,28 @@
     "coverLetterQuestions": [
       {
         "number": 1,
-        "title": "기초과학연구원 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "title": "근로복지공단 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 1. Senior Researcher\n표준직무(NCS): 연구",
+    "summary": "모집직종(1개 분야): 공무직(영선·조경기사)\n표준직무(NCS): 보건·의료",
     "mainDuties": [
-      "1. Senior Researcher",
-      "표준직무(NCS): 연구",
-      "근무분야: 연구직"
+      "공무직(영선·조경기사)",
+      "표준직무(NCS): 보건·의료",
+      "근무분야: 공무직"
     ],
     "qualifications": [
-      "ㅇ Candiates who meet the requiremens stated in the job opening",
-      "- For detailed information, please see the attached job opening",
-      "[Required qualifications]",
-      "ㅇ Must be in compliance with the requirements for appointments as specified in Article 33 of the State Public Officials Act and IBS statutes.",
-      "ㅇ If candidates are found to be former public officials dismissed for corruption as set forth in Article 82 of the Act on the Prevention of Corruption and the Establishment of the Anti-corruption and Civil Rights Commission, the job offer will be withdrawn.",
-      "ㅇ Must have no restrictions traveling overseas. Male applicants must have completed or be exempted from compulsory military service.",
-      "ㅇ Must meet the requirements by the end of the application deadline.",
-      "[Screening process]",
-      "ㅇ Step 1(Document screening)",
-      "ㅇ Step 2(Interview screening)",
-      "- For detailed information, please see the attached job opening"
+      "ㅇ 채용분야 응시자격",
+      "- 영선조경기사 : 국가기술자격법에 의한 관련분야* 기능사 이상의 자격증 1개 이상 소지자",
+      "(*관련분야 : 건축도장, 건축목공, 도배, 미장, 방수, 비계, 실내건축, 조적, 철근, 타일, 조경)",
+      "* 응시자격은 응시원서 마감일 기준",
+      "ㅇ 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자",
+      "※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자",
+      "ㅇ 연령제한 없음(단, 임용일 기준 60세(정년) 미만)",
+      "ㅇ 전형방법: 서류전형(1차) -> 면접전형(2차)",
+      "- 1차: 채용예정인원의 5배수, 응시원서 평가 100점(단, 가점 적용시 110점)",
+      "- 2차: 개별 또는 집단 면접 실시(내부직원 및 외부위원 구성)",
+      "* 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다."
     ],
     "preferredCerts": [
       "전기기사",
@@ -670,11 +1645,338 @@
       "한국사능력검정 1급",
       "컴퓨터활용능력 1급"
     ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306890",
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307057",
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307056",
+    "organization": "한국전력공사",
+    "orgShortName": "한국전력",
+    "orgType": "공공기관",
+    "title": "2026년 제3차 장애인 체험형 인턴 채용공고 [인천본부]",
+    "categories": [
+      "admin_biz"
+    ],
+    "subDomainTags": [
+      "경영·회계·사무",
+      "사무직",
+      "청년인턴(체험형)"
+    ],
+    "employmentType": "채용형 인턴",
+    "location": "인천, 경기",
+    "detailLocation": "인천, 경기",
+    "headcount": "6명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-30",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-30"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국전력공사 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 장애인 체험형 인턴\n표준직무(NCS): 경영·회계·사무",
+    "mainDuties": [
+      "장애인 체험형 인턴",
+      "표준직무(NCS): 경영·회계·사무",
+      "근무분야: 사무직"
+    ],
+    "qualifications": [
+      "□ 지원자격 : 「장애인고용촉진 및 직업재활법」 제2조 및 동법 시행령 제3조에 해당자",
+      "□ 학력, 연령, 자격증, 외국어 : 제한없음",
+      "□ 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자",
+      "□ 기타 : \"근무시작일\" 부터 근무 가능한 자",
+      "※ 상세내용 : 채용공고문 참조(붙임)",
+      "□ 접수방법",
+      "- 채용홈페이지(http://recruit.kepco.co.kr/sangsi)에서 온라인 접수 [수시채용]",
+      "□ 전형절차",
+      "- 면접전형 : 블라인드 면접점수 100점 만점, 선발배수 1배수",
+      "(동점자 처리기준 : ①취업지원대상자 ②중증장애인)",
+      "* 중증장애인은 「장애인고용촉진 및 직업재활법」으로 판단"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307056",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307055",
+    "organization": "근로복지공단",
+    "orgShortName": "근로복지",
+    "orgType": "공공기관",
+    "title": "[태백병원] 공무직(방사선사-야간전담) 채용 공고",
+    "categories": [
+      "mech_material"
+    ],
+    "subDomainTags": [
+      "보건·의료",
+      "공무직",
+      "무기계약직"
+    ],
+    "employmentType": "무기계약직",
+    "location": "강원",
+    "detailLocation": "강원",
+    "headcount": "1명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-23",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-23"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "근로복지공단 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 공무직(방사선사)_야간전담\n표준직무(NCS): 보건·의료",
+    "mainDuties": [
+      "공무직(방사선사)_야간전담",
+      "표준직무(NCS): 보건·의료",
+      "근무분야: 공무직"
+    ],
+    "qualifications": [
+      "ㅇ 채용직군별 자격요건",
+      "- 방사선사: 방사선사 면허증 소지자",
+      "* 모든 전형 응시자격은 응시원서 마감일 기준",
+      "ㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는자",
+      "※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자",
+      "ㅇ 기타: 임용예정일 즉시 근무가 가능한 자",
+      "※ 임용예정일은 공단 사정에 따라 변경될 수 있음",
+      "ㅇ 연령제한 없음(단, 임용일 기준 60세(정년) 미만)",
+      "ㅇ 전형방법 : 서류전형(1차) → 면접전형(2차)",
+      "- 1차 : 채용예정인원의 5배수, 응시원서 평가 100점(단, 가점 적용시 110점)",
+      "- 2차 : 집단 또는 개별 면접(내부 및 외부위원 구성)",
+      "* 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다."
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307055",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307053",
+    "organization": "한전KPS(주)",
+    "orgShortName": "한전KP",
+    "orgType": "공공기관",
+    "title": "한전KPS(주)신한울1사업소 '26년도 신한울2호기 제2차 OH 단기노무원 채용 공고(2차)",
+    "categories": [
+      "admin_biz",
+      "elec_hardware",
+      "mech_material",
+      "civil_arch",
+      "chem_env"
+    ],
+    "subDomainTags": [
+      "운전·운송",
+      "건설",
+      "기계",
+      "전기·전자",
+      "환경·에너지·안전",
+      "계약직",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "경북",
+    "detailLocation": "경북",
+    "headcount": "51명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-20",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-20"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한전KPS(주) 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(6개 분야): 정비보조일반 / 원자력기계설치공 / 중기 / 안전패트롤 / 비파괴 / 사무보조\n표준직무(NCS): 운전·운송, 건설, 기계, 전기·전자, 환경·에너지·안전",
+    "mainDuties": [
+      "정비보조일반",
+      "원자력기계설치공",
+      "중기",
+      "안전패트롤",
+      "비파괴",
+      "사무보조",
+      "표준직무(NCS): 운전·운송, 건설, 기계, 전기·전자, 환경·에너지·안전",
+      "근무분야: 계약직"
+    ],
+    "qualifications": [
+      "○ 채용예정일 즉시 근무 가능한 자",
+      "○ 만18세 이상 건설업 기초안전보건교육 이수예정자",
+      "○ (원자력기계설치공) 당사 등 발전설비 정비관련 기관 정비근무 유경력자",
+      "○ (중기) 천장크레인 운전기능사 소지자",
+      "○ (비파괴) 비파괴검사 국가자격 기사 이상 보유자",
+      "○ (안전패트롤) 아래 요건중 하나 이상 자격 충족자",
+      "- 산업안전(건설포함) 산업기사 이상 자격 소지자",
+      "- 산업/건설현장 안전관리 또는 감리단 경력 5회 이상자",
+      "- 발전설비 또는 플랜트현장에서 5년이상 근무한자",
+      "□ 전형절차 및 일정",
+      "□ 접수기간 : 2026.11.16(월) 13:00 ~ 2026.11.20(금) 13:00",
+      "□ 접수방법 : 이메일(biz01005431@kps.co.kr)",
+      "□ 서류제출안내",
+      "가. 입사지원 시 : 입사지원서 1부(지원자 서명본), 개인정보제공동의서",
+      "나. 서류심사 후(해당자에게 별도 연락 예정)"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307053",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307054",
+    "organization": "근로복지공단",
+    "orgShortName": "근로복지",
+    "orgType": "공공기관",
+    "title": "[태백병원] 공무직(임상병리사-야간전담) 채용 공고",
+    "categories": [
+      "mech_material"
+    ],
+    "subDomainTags": [
+      "보건·의료",
+      "공무직",
+      "무기계약직"
+    ],
+    "employmentType": "무기계약직",
+    "location": "강원",
+    "detailLocation": "강원",
+    "headcount": "1명",
+    "experienceLevel": "신입",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-16",
+    "applicationEnd": "2026-11-23",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-16"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-23"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "근로복지공단 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 공무직(임상병리사_야간전담)\n표준직무(NCS): 보건·의료",
+    "mainDuties": [
+      "공무직(임상병리사_야간전담)",
+      "표준직무(NCS): 보건·의료",
+      "근무분야: 공무직"
+    ],
+    "qualifications": [
+      "ㅇ 채용직군별 자격요건",
+      "- 임상병리사: 임상병리사 면허증 소지자",
+      "* 모든 전형 응시자격은 응시원서 마감일 기준",
+      "ㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는자",
+      "※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자",
+      "ㅇ 기타: 임용예정일 즉시 근무가 가능한 자",
+      "※ 임용예정일은 공단 사정에 따라 변경될 수 있음",
+      "ㅇ 연령제한 없음(단, 임용일 기준 60세(정년) 미만)",
+      "ㅇ 전형방법 : 서류전형(1차) → 면접전형(2차)",
+      "- 1차 : 채용예정인원의 5배수, 응시원서 평가 100점(단, 가점 적용시 110점)",
+      "- 2차 : 집단 또는 개별 면접(내부 및 외부위원 구성)",
+      "* 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다."
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307054",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307028",
@@ -760,7 +2062,154 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-306999",
+    "organization": "한국도로공사",
+    "orgShortName": "한국도로",
+    "orgType": "공공기관",
+    "title": "한국도로공사 제천영월건설사업단 기간제근로자(운전원) 채용공고",
+    "categories": [
+      "civil_arch"
+    ],
+    "subDomainTags": [
+      "운전·운송",
+      "기타(운전원)",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "충북",
+    "detailLocation": "충북",
+    "headcount": "1명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-13",
+    "applicationEnd": "2026-11-20",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-13"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-20"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "서류 5배수",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국도로공사 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 운전원\n표준직무(NCS): 운전·운송",
+    "mainDuties": [
+      "운전원",
+      "표준직무(NCS): 운전·운송",
+      "근무분야: 기타(운전원)"
+    ],
+    "qualifications": [
+      "o 연령, 성별, 학력 제한 없음",
+      "o 우리공사 기간제근로자관리예규 제6조의1 제2항의 결격사유가 없는 자",
+      "o 1종 보통면허 취득 후 운전경력 1년 이상인 자로 차량 운전 가능한 자",
+      "o 채용일부터 근무 가능한 자",
+      "o 서류전형 : 서류심사(자격증, 역량기술서) 결과 고득점자 순으로 최종선발인원의 5배수 이내 선발(동점자 전원 선발)",
+      "o 면접전형 : 집단면접",
+      "o 최종발표 : 서류전형, 면접전형 합계 고득점자 순",
+      "- 동점자 처리 : ① 취업지원대상자 ② 면접전형 ③ 서류전형"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306999",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
+  },
+  {
+    "id": "alio-live-307000",
+    "organization": "한국도로공사",
+    "orgShortName": "한국도로",
+    "orgType": "공공기관",
+    "title": "한국도로공사 제천영월건설사업단 기간제근로자(청소원) 채용공고",
+    "categories": [
+      "civil_arch"
+    ],
+    "subDomainTags": [
+      "경비·청소",
+      "기타(청소원)",
+      "비정규직"
+    ],
+    "employmentType": "계약직/체험형",
+    "location": "충북",
+    "detailLocation": "충북",
+    "headcount": "1명",
+    "experienceLevel": "신입+경력",
+    "educationRequired": "학력무관",
+    "applicationStart": "2026-11-13",
+    "applicationEnd": "2026-11-20",
+    "schedules": [
+      {
+        "stage": "application_start",
+        "label": "접수 시작",
+        "date": "2026-11-13"
+      },
+      {
+        "stage": "application_end",
+        "label": "접수 마감",
+        "date": "2026-11-20"
+      }
+    ],
+    "selectionQuotas": {
+      "documentQuota": "서류 5배수",
+      "isDocumentPassAll": false,
+      "writtenQuota": "전형별 선발"
+    },
+    "coverLetterQuestions": [
+      {
+        "number": 1,
+        "title": "한국도로공사 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
+        "maxChars": 800
+      }
+    ],
+    "summary": "모집직종(1개 분야): 청소원\n표준직무(NCS): 경비·청소",
+    "mainDuties": [
+      "청소원",
+      "표준직무(NCS): 경비·청소",
+      "근무분야: 기타(청소원)"
+    ],
+    "qualifications": [
+      "o 연령, 성별, 학력 제한 없음",
+      "o 우리공사 기간제근로자관리예규 제6조의1 제2항의 결격사유가 없는 자",
+      "o 채용일부터 근무 가능한 자",
+      "o 서류전형 : 서류심사(역량기술서) 결과 고득점자 순으로 최종선발인원의 5배수 이내 선발(동점자 전원선발)",
+      "o 면접전형 : 집단면접",
+      "o 최종발표 : 서류전형, 면접전형 합계 고득점자 순",
+      "- 동점자 처리 : ① 취업지원대상자 ② 면접전형 ③ 서류전형"
+    ],
+    "preferredCerts": [
+      "전기기사",
+      "정보처리기사",
+      "한국사능력검정 1급",
+      "컴퓨터활용능력 1급"
+    ],
+    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307000",
+    "sourcePlatform": "JOB-ALIO",
+    "isMedicalExcluded": false,
+    "excludedReason": null,
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307001",
@@ -846,154 +2295,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
-  },
-  {
-    "id": "alio-live-307000",
-    "organization": "한국도로공사",
-    "orgShortName": "한국도로",
-    "orgType": "공공기관",
-    "title": "한국도로공사 제천영월건설사업단 기간제근로자(청소원) 채용공고",
-    "categories": [
-      "civil_arch"
-    ],
-    "subDomainTags": [
-      "경비·청소",
-      "기타(청소원)",
-      "비정규직"
-    ],
-    "employmentType": "계약직/체험형",
-    "location": "충북",
-    "detailLocation": "충북",
-    "headcount": "1명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관",
-    "applicationStart": "2026-11-13",
-    "applicationEnd": "2026-11-20",
-    "schedules": [
-      {
-        "stage": "application_start",
-        "label": "접수 시작",
-        "date": "2026-11-13"
-      },
-      {
-        "stage": "application_end",
-        "label": "접수 마감",
-        "date": "2026-11-20"
-      }
-    ],
-    "selectionQuotas": {
-      "documentQuota": "서류 5배수",
-      "isDocumentPassAll": false,
-      "writtenQuota": "전형별 선발"
-    },
-    "coverLetterQuestions": [
-      {
-        "number": 1,
-        "title": "한국도로공사 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
-        "maxChars": 800
-      }
-    ],
-    "summary": "모집직종(1개 분야): 청소원\n표준직무(NCS): 경비·청소",
-    "mainDuties": [
-      "청소원",
-      "표준직무(NCS): 경비·청소",
-      "근무분야: 기타(청소원)"
-    ],
-    "qualifications": [
-      "o 연령, 성별, 학력 제한 없음",
-      "o 우리공사 기간제근로자관리예규 제6조의1 제2항의 결격사유가 없는 자",
-      "o 채용일부터 근무 가능한 자",
-      "o 서류전형 : 서류심사(역량기술서) 결과 고득점자 순으로 최종선발인원의 5배수 이내 선발(동점자 전원선발)",
-      "o 면접전형 : 집단면접",
-      "o 최종발표 : 서류전형, 면접전형 합계 고득점자 순",
-      "- 동점자 처리 : ① 취업지원대상자 ② 면접전형 ③ 서류전형"
-    ],
-    "preferredCerts": [
-      "전기기사",
-      "정보처리기사",
-      "한국사능력검정 1급",
-      "컴퓨터활용능력 1급"
-    ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307000",
-    "sourcePlatform": "JOB-ALIO",
-    "isMedicalExcluded": false,
-    "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
-  },
-  {
-    "id": "alio-live-306999",
-    "organization": "한국도로공사",
-    "orgShortName": "한국도로",
-    "orgType": "공공기관",
-    "title": "한국도로공사 제천영월건설사업단 기간제근로자(운전원) 채용공고",
-    "categories": [
-      "civil_arch"
-    ],
-    "subDomainTags": [
-      "운전·운송",
-      "기타(운전원)",
-      "비정규직"
-    ],
-    "employmentType": "계약직/체험형",
-    "location": "충북",
-    "detailLocation": "충북",
-    "headcount": "1명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관",
-    "applicationStart": "2026-11-13",
-    "applicationEnd": "2026-11-20",
-    "schedules": [
-      {
-        "stage": "application_start",
-        "label": "접수 시작",
-        "date": "2026-11-13"
-      },
-      {
-        "stage": "application_end",
-        "label": "접수 마감",
-        "date": "2026-11-20"
-      }
-    ],
-    "selectionQuotas": {
-      "documentQuota": "서류 5배수",
-      "isDocumentPassAll": false,
-      "writtenQuota": "전형별 선발"
-    },
-    "coverLetterQuestions": [
-      {
-        "number": 1,
-        "title": "한국도로공사 지원 동기 및 입사 후 직무 수행 계획을 기술해 주십시오.",
-        "maxChars": 800
-      }
-    ],
-    "summary": "모집직종(1개 분야): 운전원\n표준직무(NCS): 운전·운송",
-    "mainDuties": [
-      "운전원",
-      "표준직무(NCS): 운전·운송",
-      "근무분야: 기타(운전원)"
-    ],
-    "qualifications": [
-      "o 연령, 성별, 학력 제한 없음",
-      "o 우리공사 기간제근로자관리예규 제6조의1 제2항의 결격사유가 없는 자",
-      "o 1종 보통면허 취득 후 운전경력 1년 이상인 자로 차량 운전 가능한 자",
-      "o 채용일부터 근무 가능한 자",
-      "o 서류전형 : 서류심사(자격증, 역량기술서) 결과 고득점자 순으로 최종선발인원의 5배수 이내 선발(동점자 전원 선발)",
-      "o 면접전형 : 집단면접",
-      "o 최종발표 : 서류전형, 면접전형 합계 고득점자 순",
-      "- 동점자 처리 : ① 취업지원대상자 ② 면접전형 ③ 서류전형"
-    ],
-    "preferredCerts": [
-      "전기기사",
-      "정보처리기사",
-      "한국사능력검정 1급",
-      "컴퓨터활용능력 1급"
-    ],
-    "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306999",
-    "sourcePlatform": "JOB-ALIO",
-    "isMedicalExcluded": false,
-    "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306998",
@@ -1067,7 +2369,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306995",
@@ -1143,7 +2445,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306994",
@@ -1215,7 +2517,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306993",
@@ -1298,7 +2600,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306992",
@@ -1384,7 +2686,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306991",
@@ -1462,7 +2764,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306985",
@@ -1538,7 +2840,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306980",
@@ -1617,7 +2919,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306966",
@@ -1690,7 +2992,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306964",
@@ -1764,7 +3066,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306958",
@@ -1841,7 +3143,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306959",
@@ -1919,7 +3221,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307002",
@@ -1993,7 +3295,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307003",
@@ -2068,7 +3370,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307032",
@@ -2140,7 +3442,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307031",
@@ -2215,7 +3517,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307030",
@@ -2290,7 +3592,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307029",
@@ -2365,7 +3667,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307027",
@@ -2451,7 +3753,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307026",
@@ -2535,7 +3837,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307023",
@@ -2614,7 +3916,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306960",
@@ -2694,7 +3996,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307022",
@@ -2770,7 +4072,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307021",
@@ -2860,7 +4162,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307020",
@@ -2933,7 +4235,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307006",
@@ -3021,7 +4323,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307009",
@@ -3097,7 +4399,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307019",
@@ -3170,7 +4472,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307018",
@@ -3242,7 +4544,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307017",
@@ -3327,7 +4629,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307016",
@@ -3403,7 +4705,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307010",
@@ -3491,7 +4793,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-307013",
@@ -3575,7 +4877,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306897",
@@ -3645,7 +4947,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306956",
@@ -3732,7 +5034,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306955",
@@ -3808,7 +5110,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306954",
@@ -3882,7 +5184,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306952",
@@ -3959,7 +5261,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306951",
@@ -4035,7 +5337,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306950",
@@ -4139,7 +5441,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306949",
@@ -4222,7 +5524,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306948",
@@ -4231,23 +5533,17 @@
     "orgType": "공공기관",
     "title": "한전KPS(주)남제주사업소 복합 #2GT 계획예방정비공사 단기노무원 채용 공고",
     "categories": [
-      "elec_hardware",
-      "mech_material",
-      "chem_env"
+      "admin_biz"
     ],
     "subDomainTags": [
-      "기계",
-      "전기·전자",
-      "환경·에너지·안전",
-      "계약직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
     "location": "제주",
     "detailLocation": "제주",
-    "headcount": "13명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-12",
     "applicationEnd": "2026-11-18",
     "schedules": [
@@ -4274,21 +5570,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(2개 분야): 안전감시자(12.2.~12.31.) / 정비보조(12.2.~12.31.)\n표준직무(NCS): 기계, 전기·전자, 환경·에너지·안전",
+    "summary": "한전KPS(주) 한전KPS(주)남제주사업소 복합 #2GT 계획예방정비공사 단기노무원 채용 공고",
     "mainDuties": [
-      "안전감시자(12.2.~12.31.)",
-      "정비보조(12.2.~12.31.)",
-      "표준직무(NCS): 기계, 전기·전자, 환경·에너지·안전",
-      "근무분야: 계약직"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "채용 예정일 즉시 근무가능한 자",
-      "□ 채용조건",
-      "1. 채용분야 및 계약기간",
-      "○ 안전감시자(3명) - 2026.12.02.~2026.12.31.",
-      "○ 정비보조(10명) - 2026.12.02.~2026.12.31.",
-      "2. 근무시간 및 보수",
-      "○ 근무시간 : 주 5일, 1일 8시간(09:00~18:00)을 원칙으로 하되, 사업소 사정에 따라 변동가능"
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -4300,7 +5587,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306848",
@@ -4380,7 +5667,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306866",
@@ -4460,7 +5747,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306944",
@@ -4544,7 +5831,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306984",
@@ -4630,7 +5917,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306989",
@@ -4708,7 +5995,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306987",
@@ -4780,7 +6067,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306965",
@@ -4789,23 +6076,17 @@
     "orgType": "공공기관",
     "title": "2026년 제6차 직원채용 공고",
     "categories": [
-      "admin_biz",
-      "it_sw"
+      "admin_biz"
     ],
     "subDomainTags": [
-      "사업관리",
-      "경영·회계·사무",
-      "보건·의료",
-      "연구",
-      "행정직, 연구직, 전산직, 계약직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
-    "location": "서울, 충북",
-    "detailLocation": "서울, 충북",
-    "headcount": "35명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관, 고졸, 대졸(2~3년), 대졸(4년), 석사, 박사",
+    "location": "서울 외 1",
+    "detailLocation": "서울 외 1",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-12",
     "applicationEnd": "2026-11-26",
     "schedules": [
@@ -4832,52 +6113,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(22개 분야): 육아휴직 대체근로_전산전문요원_중급기술자(개인정보 보호 업무) / 육아휴직 대체근로_전산전문요원_중급기술자(방역통합정보시스템 운영·관리 지원) / 육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항) / 보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정) / 전산전문요원_고급기술자(진료정보교류 시스템 운영 관리) / 전산전문요원_중급기술자(공공기관 정보화 사업기획 및 시스템 개발·운영) / 전산전문요원_중급기술자(보건의료데이터 활용 활성화 업무) / 전산전문요원_초급기술자(공공기관 정보화 사업기획 및 시스템 개발·운영) / 행정전문요원_가등급(특수전문기관 지정심사제도 운영 등) / 행정전문요원_가등급(진료정보교류 사업 행정업무 전반) / 행정전문요원_다등급(EMR인증 사업 관련 업무) / 행정전문요원_다등급(특수전문기관 지정심사제도 운영 등) / 행정전문요원_다등급(정보화사업 사업관리 지원) / 행정전문요원_다등급(보건의료데이터 활용 활성화 업무) / 연구직_선임연구원(국가통합바이오빅데이터 사업 관리) / 연구직_선임연구원(보건의료데이터 활용 활성화 업무(통합활용 기술개발)) / 연구직_연구원(국가통합바이오빅데이터 수집·연계 및 표준화·품질관리 실무) / 연구직_연구원(국가통합바이오빅데이터 사업 관리) / 연구직_연구원(보건의료데이터 및 NGS 관련 연구) / 연구직_연구원(보건의료데이터 활용 활성화 업무) / 연구직_연구보조원(국가통합바이오빅데이터 데이터뱅크 운영 지원) / 전산전문요원_중급기술자(오송지소_국가통합바이오빅데이터 인프라 운영 지원)\n표준직무(NCS): 사업관리, 경영·회계·사무, 보건·의료, 연구",
+    "summary": "(재)한국보건의료정보원 2026년 제6차 직원채용 공고",
     "mainDuties": [
-      "육아휴직 대체근로_전산전문요원_중급기술자(개인정보 보호 업무)",
-      "육아휴직 대체근로_전산전문요원_중급기술자(방역통합정보시스템 운영·관리 지원)",
-      "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)",
-      "보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정)",
-      "전산전문요원_고급기술자(진료정보교류 시스템 운영 관리)",
-      "전산전문요원_중급기술자(공공기관 정보화 사업기획 및 시스템 개발·운영)",
-      "전산전문요원_중급기술자(보건의료데이터 활용 활성화 업무)",
-      "전산전문요원_초급기술자(공공기관 정보화 사업기획 및 시스템 개발·운영)",
-      "행정전문요원_가등급(특수전문기관 지정심사제도 운영 등)",
-      "행정전문요원_가등급(진료정보교류 사업 행정업무 전반)",
-      "행정전문요원_다등급(EMR인증 사업 관련 업무)",
-      "행정전문요원_다등급(특수전문기관 지정심사제도 운영 등)",
-      "행정전문요원_다등급(정보화사업 사업관리 지원)",
-      "행정전문요원_다등급(보건의료데이터 활용 활성화 업무)",
-      "연구직_선임연구원(국가통합바이오빅데이터 사업 관리)",
-      "연구직_선임연구원(보건의료데이터 활용 활성화 업무(통합활용 기술개발))",
-      "연구직_연구원(국가통합바이오빅데이터 수집·연계 및 표준화·품질관리 실무)",
-      "연구직_연구원(국가통합바이오빅데이터 사업 관리)",
-      "연구직_연구원(보건의료데이터 및 NGS 관련 연구)",
-      "연구직_연구원(보건의료데이터 활용 활성화 업무)",
-      "연구직_연구보조원(국가통합바이오빅데이터 데이터뱅크 운영 지원)",
-      "전산전문요원_중급기술자(오송지소_국가통합바이오빅데이터 인프라 운영 지원)",
-      "표준직무(NCS): 사업관리, 경영·회계·사무, 보건·의료, 연구",
-      "근무분야: 행정직, 연구직, 전산직, 계약직"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "○ 기간제 근로자 - 행정, 전산",
-      "- 행정전문요원 가등급",
-      "ㆍ채용 관련 분야에서 7년 이상 근무한자",
-      "ㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자",
-      "ㆍ채용 관련분야 박사학위 취득자",
-      "- 행정전문요원 나등급",
-      "ㆍ채용 관련분야에서 3년 이상 근무한 자",
-      "ㆍ채용 관련분야 석사학위 취득자",
-      "- 행정전문요원 다등급",
-      "ㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자",
-      "- 전산전문요원 고급기술자",
-      "ㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자",
-      "○ 전형절차",
-      "1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00",
-      "2. 서류합격자 발표 : ‘26.12.3.(목)",
-      "3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00",
-      "4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)",
-      "5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)"
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -4889,7 +6130,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306968",
@@ -4967,7 +6208,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306969",
@@ -5045,7 +6286,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306971",
@@ -5131,7 +6372,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306975",
@@ -5209,7 +6450,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306976",
@@ -5287,7 +6528,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306977",
@@ -5299,16 +6540,14 @@
       "admin_biz"
     ],
     "subDomainTags": [
-      "보건·의료",
-      "계약직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
     "location": "경남",
     "detailLocation": "경남",
-    "headcount": "1명",
-    "experienceLevel": "신입",
-    "educationRequired": "학력무관",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-12",
     "applicationEnd": "2026-11-19",
     "schedules": [
@@ -5335,25 +6574,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 기간제_임상병리사\n표준직무(NCS): 보건·의료",
+    "summary": "근로복지공단 [창원병원] 기간제(임상병리사) 채용 공고",
     "mainDuties": [
-      "기간제_임상병리사",
-      "표준직무(NCS): 보건·의료",
-      "근무분야: 계약직"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "ㅇ 채용직군별 자격요건",
-      "- 임상병리사: 임상병리사 면허증 소지자",
-      "* 모든 전형 응시자격은 응시원서 마감일 기준",
-      "ㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는자",
-      "※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자",
-      "ㅇ 기타: 임용예정일 즉시 근무가 가능한 자",
-      "※ 임용예정일은 공단 사정에 따라 변경될 수 있음",
-      "ㅇ 연령제한 없음",
-      "ㅇ 전형방법 : 서류전형(1차) → 면접전형(2차)",
-      "- 1차 : 채용예정인원의 5배수, 응시원서 평가 100점(단, 가점 적용시 110점)",
-      "- 2차 : 집단 또는 개별 면접(내부 및 외부위원 구성)",
-      "* 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다."
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -5365,7 +6591,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306978",
@@ -5444,7 +6670,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306982",
@@ -5519,7 +6745,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306983",
@@ -5611,7 +6837,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306908",
@@ -5690,7 +6916,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306909",
@@ -5778,7 +7004,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306912",
@@ -5866,7 +7092,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306913",
@@ -5946,7 +7172,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306914",
@@ -6031,7 +7257,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306915",
@@ -6104,7 +7330,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306916",
@@ -6180,7 +7406,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306917",
@@ -6259,7 +7485,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306918",
@@ -6336,7 +7562,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306907",
@@ -6408,7 +7634,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306906",
@@ -6497,7 +7723,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306875",
@@ -6589,7 +7815,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306874",
@@ -6670,7 +7896,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306872",
@@ -6750,7 +7976,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306821",
@@ -6833,7 +8059,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306826",
@@ -6908,7 +8134,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306824",
@@ -6990,7 +8216,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306823",
@@ -7069,7 +8295,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306806",
@@ -7142,7 +8368,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306816",
@@ -7232,7 +8458,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306919",
@@ -7306,7 +8532,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306920",
@@ -7381,7 +8607,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306935",
@@ -7457,7 +8683,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306938",
@@ -7531,7 +8757,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306940",
@@ -7603,7 +8829,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306937",
@@ -7677,7 +8903,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306941",
@@ -7763,7 +8989,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306942",
@@ -7842,7 +9068,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306934",
@@ -7916,7 +9142,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306936",
@@ -8012,7 +9238,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306961",
@@ -8090,7 +9316,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306962",
@@ -8169,7 +9395,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306939",
@@ -8245,7 +9471,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306933",
@@ -8321,7 +9547,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306932",
@@ -8397,7 +9623,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306931",
@@ -8482,7 +9708,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306930",
@@ -8556,7 +9782,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306963",
@@ -8635,7 +9861,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306928",
@@ -8708,7 +9934,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'임상시험' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306927",
@@ -8808,7 +10034,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306926",
@@ -8883,7 +10109,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306925",
@@ -8962,7 +10188,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306924",
@@ -9039,7 +10265,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306923",
@@ -9118,7 +10344,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306921",
@@ -9191,7 +10417,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306876",
@@ -9284,7 +10510,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306871",
@@ -9363,7 +10589,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306870",
@@ -9438,7 +10664,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306877",
@@ -9510,7 +10736,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306865",
@@ -9588,7 +10814,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306776",
@@ -9667,7 +10893,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306850",
@@ -9736,7 +10962,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306839",
@@ -9811,7 +11037,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306947",
@@ -9892,7 +11118,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306820",
@@ -9968,7 +11194,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306807",
@@ -10047,7 +11273,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306878",
@@ -10123,7 +11349,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306880",
@@ -10200,7 +11426,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306895",
@@ -10276,7 +11502,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306896",
@@ -10352,7 +11578,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306900",
@@ -10439,7 +11665,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306894",
@@ -10515,7 +11741,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306901",
@@ -10586,7 +11812,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306902",
@@ -10659,7 +11885,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306903",
@@ -10731,7 +11957,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306893",
@@ -10807,7 +12033,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306904",
@@ -10888,7 +12114,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306891",
@@ -10966,7 +12192,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306887",
@@ -11048,7 +12274,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306881",
@@ -11125,7 +12351,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306882",
@@ -11203,7 +12429,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306883",
@@ -11281,7 +12507,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306889",
@@ -11358,7 +12584,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306888",
@@ -11431,7 +12657,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306884",
@@ -11509,7 +12735,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306885",
@@ -11587,7 +12813,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306886",
@@ -11665,7 +12891,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306829",
@@ -11748,7 +12974,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306828",
@@ -11830,7 +13056,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306827",
@@ -11909,7 +13135,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306825",
@@ -11991,7 +13217,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306822",
@@ -12072,7 +13298,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306819",
@@ -12156,7 +13382,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306818",
@@ -12241,7 +13467,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306791",
@@ -12324,7 +13550,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306815",
@@ -12409,7 +13635,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306789",
@@ -12508,7 +13734,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306814",
@@ -12587,7 +13813,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306911",
@@ -12666,7 +13892,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306673",
@@ -12746,7 +13972,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306678",
@@ -12820,7 +14046,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306748",
@@ -12903,7 +14129,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'의료기기' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306797",
@@ -12981,7 +14207,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306794",
@@ -12996,16 +14222,14 @@
       "rf_telecom"
     ],
     "subDomainTags": [
-      "정보통신",
-      "기타(일용직)",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
     "location": "부산",
     "detailLocation": "부산",
-    "headcount": "2명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-09",
     "applicationEnd": "2026-11-23",
     "schedules": [
@@ -13021,8 +14245,8 @@
       }
     ],
     "selectionQuotas": {
-      "documentQuota": "서류 적부",
-      "isDocumentPassAll": true,
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
       "writtenQuota": "전형별 선발"
     },
     "coverLetterQuestions": [
@@ -13032,21 +14256,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 현장보조원\n표준직무(NCS): 정보통신",
+    "summary": "한전KDN 한전KDN(주) 부산본부 전력통신팀 정보통신설비 작업원(현장보조원) 모집공고",
     "mainDuties": [
-      "현장보조원",
-      "표준직무(NCS): 정보통신",
-      "근무분야: 기타(일용직)"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "1. 학력, 연령, 외국어 : 제한없음",
-      "2. 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자",
-      "3. 자격",
-      "- 자기 차량을 업무에 이용할 수 있는 자",
-      "- 운전에 결격 사유가 없는 자(운전면허소지자 등)",
-      "4. 기타 등 상세 사항은 모집공고문 지원 자격 참조",
-      "1차 : 서류전형(적부심사)",
-      "2차 : 면접전형(1배수)"
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -13058,7 +14273,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306792",
@@ -13140,7 +14355,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306830",
@@ -13218,7 +14433,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306831",
@@ -13294,7 +14509,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306869",
@@ -13372,7 +14587,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306864",
@@ -13440,7 +14655,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306863",
@@ -13508,7 +14723,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306862",
@@ -13576,7 +14791,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306861",
@@ -13588,16 +14803,14 @@
       "admin_biz"
     ],
     "subDomainTags": [
-      "보건·의료",
-      "간호직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
     "location": "인천",
     "detailLocation": "인천",
-    "headcount": "1명",
-    "experienceLevel": "신입",
-    "educationRequired": "학력무관",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-09",
     "applicationEnd": "2026-11-25",
     "schedules": [
@@ -13624,18 +14837,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 비정규직 육아휴직 대체인력(간호사)\n표준직무(NCS): 보건·의료",
+    "summary": "대한적십자사 인천적십자병원 육아휴직 대체인력(비정규직 간호사) 채용공고",
     "mainDuties": [
-      "비정규직 육아휴직 대체인력(간호사)",
-      "표준직무(NCS): 보건·의료",
-      "근무분야: 간호직"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "- 간호사면허증 소지자",
-      "- 보험심사관리사 1급 자격증 소지자",
-      "- 임상(병동) 경력 2년 이상",
-      "※ 보험심사 경력 1년 이상 우대",
-      "1차 서류전형 - 2차 면접전형 - 합격자발표"
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -13647,7 +14854,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306860",
@@ -13723,7 +14930,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306859",
@@ -13796,7 +15003,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306855",
@@ -13868,7 +15075,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306854",
@@ -13944,7 +15151,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306852",
@@ -14023,7 +15230,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306672",
@@ -14107,7 +15314,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306847",
@@ -14189,7 +15396,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306846",
@@ -14263,7 +15470,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306845",
@@ -14336,7 +15543,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306832",
@@ -14420,7 +15627,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306833",
@@ -14496,7 +15703,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306834",
@@ -14508,16 +15715,14 @@
       "admin_biz"
     ],
     "subDomainTags": [
-      "보건·의료",
-      "계약직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
     "location": "경남",
     "detailLocation": "경남",
-    "headcount": "1명",
-    "experienceLevel": "신입",
-    "educationRequired": "학력무관",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-09",
     "applicationEnd": "2026-11-19",
     "schedules": [
@@ -14544,25 +15749,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 기간제_응급실전담의\n표준직무(NCS): 보건·의료",
+    "summary": "근로복지공단 [창원병원] 기간제 의사(응급실전담의) 채용 공고",
     "mainDuties": [
-      "기간제_응급실전담의",
-      "표준직무(NCS): 보건·의료",
-      "근무분야: 계약직"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "ㅇ 채용분야 응시자격",
-      "-기간제 의사(응급실전담의) : 전문의 자격 소지자 또는 전공의 1년 이상 수료자",
-      "* 모든 전형 응시자격은 응시원서 마감일 기준",
-      "ㅇ 병역사항: 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는 자",
-      "※ 현재 군복무 중인 경우 임용예정일 이전 전역이 가능한 자",
-      "ㅇ 기타: 임용예정일 즉시 근무가 가능한 자",
-      "※ 임용일은 공단 사정에 따라 변경될 수 있음",
-      "ㅇ 연령요건 : 제한 없음",
-      "ㅇ 전형방법 : 서류전형(1차) → 면접전형(2차)",
-      "- 1차 : 응시 자격기준 해당자 전원 합격 처리",
-      "- 2차 : 개별 면접(내부 및 외부위원 구성)",
-      "* 자세한 사항은 첨부파일의 채용공고문을 참조하시기 바랍니다."
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -14574,7 +15766,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306835",
@@ -14651,7 +15843,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306836",
@@ -14735,7 +15927,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306837",
@@ -14813,7 +16005,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306838",
@@ -14893,7 +16085,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306840",
@@ -14972,7 +16164,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306841",
@@ -15066,7 +16258,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306843",
@@ -15140,7 +16332,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306844",
@@ -15214,7 +16406,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306853",
@@ -15290,7 +16482,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306743",
@@ -15367,7 +16559,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306767",
@@ -15444,7 +16636,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306768",
@@ -15520,7 +16712,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306769",
@@ -15603,7 +16795,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306770",
@@ -15694,7 +16886,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306771",
@@ -15769,7 +16961,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306772",
@@ -15844,7 +17036,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306773",
@@ -15919,7 +17111,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306774",
@@ -16020,7 +17212,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306775",
@@ -16095,7 +17287,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306777",
@@ -16170,7 +17362,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306778",
@@ -16245,7 +17437,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306802",
@@ -16334,7 +17526,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306803",
@@ -16410,7 +17602,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306805",
@@ -16489,7 +17681,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306804",
@@ -16567,7 +17759,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306801",
@@ -16646,7 +17838,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306799",
@@ -16726,7 +17918,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306786",
@@ -16802,7 +17994,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306784",
@@ -16878,7 +18070,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306783",
@@ -16966,7 +18158,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306782",
@@ -17055,7 +18247,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306781",
@@ -17134,7 +18326,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306780",
@@ -17215,7 +18407,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306740",
@@ -17293,7 +18485,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306739",
@@ -17378,7 +18570,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306737",
@@ -17448,7 +18640,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306736",
@@ -17522,7 +18714,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306735",
@@ -17604,7 +18796,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306734",
@@ -17680,7 +18872,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306733",
@@ -17754,7 +18946,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306732",
@@ -17823,7 +19015,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306731",
@@ -17892,7 +19084,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306730",
@@ -17968,7 +19160,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306729",
@@ -18065,7 +19257,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306723",
@@ -18158,7 +19350,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306892",
@@ -18227,7 +19419,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306697",
@@ -18295,7 +19487,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306720",
@@ -18373,7 +19565,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306742",
@@ -18450,7 +19642,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306744",
@@ -18528,7 +19720,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306763",
@@ -18612,7 +19804,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306765",
@@ -18690,7 +19882,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306762",
@@ -18764,7 +19956,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306761",
@@ -18847,7 +20039,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306760",
@@ -18926,7 +20118,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306759",
@@ -19005,7 +20197,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306758",
@@ -19096,7 +20288,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306756",
@@ -19170,7 +20362,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306746",
@@ -19251,7 +20443,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306747",
@@ -19336,7 +20528,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306764",
@@ -19410,7 +20602,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306749",
@@ -19489,7 +20681,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306750",
@@ -19604,7 +20796,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306752",
@@ -19688,7 +20880,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306755",
@@ -19779,7 +20971,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306651",
@@ -19857,7 +21049,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306689",
@@ -19931,7 +21123,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306691",
@@ -20011,7 +21203,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306687",
@@ -20093,7 +21285,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306686",
@@ -20167,7 +21359,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306684",
@@ -20244,7 +21436,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306682",
@@ -20320,7 +21512,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306677",
@@ -20399,7 +21591,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306688",
@@ -20481,7 +21673,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306671",
@@ -20556,7 +21748,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306670",
@@ -20633,7 +21825,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306669",
@@ -20707,7 +21899,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306668",
@@ -20797,7 +21989,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'임상시험' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306667",
@@ -20875,7 +22067,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306665",
@@ -20956,7 +22148,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306664",
@@ -21031,7 +22223,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306663",
@@ -21109,7 +22301,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306659",
@@ -21182,7 +22374,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306565",
@@ -21272,7 +22464,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306692",
@@ -21346,7 +22538,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306693",
@@ -21425,7 +22617,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306695",
@@ -21512,7 +22704,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306337",
@@ -21589,7 +22781,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306364",
@@ -21680,7 +22872,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306719",
@@ -21765,7 +22957,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306718",
@@ -21851,7 +23043,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306717",
@@ -21921,7 +23113,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306716",
@@ -21994,7 +23186,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306715",
@@ -22069,7 +23261,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306714",
@@ -22141,7 +23333,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306713",
@@ -22212,7 +23404,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306712",
@@ -22284,7 +23476,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306711",
@@ -22355,7 +23547,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306710",
@@ -22434,7 +23626,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306709",
@@ -22510,7 +23702,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306707",
@@ -22523,16 +23715,14 @@
       "mech_material"
     ],
     "subDomainTags": [
-      "보건·의료",
-      "기타(콜센터)",
       "무기계약직"
     ],
     "employmentType": "무기계약직",
     "location": "서울",
     "detailLocation": "서울",
-    "headcount": "1명",
-    "experienceLevel": "경력",
-    "educationRequired": "학력무관",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-04",
     "applicationEnd": "2026-11-18",
     "schedules": [
@@ -22559,27 +23749,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(1개 분야): 업무지원직 콜센터 매니저(원무팀)\n표준직무(NCS): 보건·의료",
+    "summary": "국립중앙의료원 업무지원직 콜센터 매니저(원무팀) 채용 공고",
     "mainDuties": [
-      "업무지원직 콜센터 매니저(원무팀)",
-      "표준직무(NCS): 보건·의료",
-      "근무분야: 기타(콜센터)"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "[필수] 아래의 조건을 모두 충족한자",
-      "ㆍ의료기관1) 콜센터 근무경력2) 3년 이상 경력자",
-      "ㆍ3교대 근무 가능자",
-      "경력인정 범위",
-      "1) 고용형태(직접고용, 파견, 도급, 위탁 등)와 관계없이 인정하되, 경력(재직)증명서 상 실제 근무한 의료기관명이 확인되어야 하며,",
-      "공고마감일 기준 건강보험심사평가원 등재된 의료기관이어야 함",
-      "2) 경력(재직)증명서 상 부서명(또는 담당업무)에 “콜센터” 또는 “고객센터” 또는 “고객상담” 또는 “예약”이 기재된 경우에 한하여 인정",
-      "[우대]",
-      "ㆍ종합병원 등 의료기관 진료 예약 및 원무 실무 경험자",
-      "ㆍ보건행정 관련 학과 전공자",
-      "* 상기 우대조건 부합 시, 입사지원서의 경력(경험) 기술란에 상세 기술",
-      "1. 서류전형-응시자격 등 서류 평가",
-      "2. 면접-직무수행능력, 직업기초능력, 발전가능성 등 종합적 평가",
-      "* 합격배수 등 기타 사항은 공고문을 확인해주시기 바랍니다."
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -22591,7 +23766,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306706",
@@ -22663,7 +23838,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306705",
@@ -22743,7 +23918,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306704",
@@ -22820,7 +23995,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306702",
@@ -22899,7 +24074,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306701",
@@ -22972,7 +24147,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306699",
@@ -23051,7 +24226,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306696",
@@ -23124,7 +24299,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306698",
@@ -23205,7 +24380,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306634",
@@ -23306,7 +24481,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306633",
@@ -23385,7 +24560,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306604",
@@ -23490,7 +24665,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'의료기기' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306596",
@@ -23559,7 +24734,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306594",
@@ -23627,7 +24802,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306562",
@@ -23706,7 +24881,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306561",
@@ -23794,7 +24969,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306560",
@@ -23806,16 +24981,14 @@
       "admin_biz"
     ],
     "subDomainTags": [
-      "경영·회계·사무",
-      "일반직, 행정직, 사무직",
       "청년인턴(체험형)"
     ],
     "employmentType": "채용형 인턴",
-    "location": "서울, 대전",
-    "detailLocation": "서울, 대전",
-    "headcount": "2명",
-    "experienceLevel": "신입",
-    "educationRequired": "학력무관",
+    "location": "서울 외 1",
+    "detailLocation": "서울 외 1",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-03",
     "applicationEnd": "2026-11-18",
     "schedules": [
@@ -23831,8 +25004,8 @@
       }
     ],
     "selectionQuotas": {
-      "documentQuota": "서류 적부",
-      "isDocumentPassAll": true,
+      "documentQuota": "공고문 기준",
+      "isDocumentPassAll": false,
       "writtenQuota": "전형별 선발"
     },
     "coverLetterQuestions": [
@@ -23842,29 +25015,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(2개 분야): 행정지원(체험형 청년인턴, 대전) / 행정지원(체험형 청년인턴, 서울)\n표준직무(NCS): 경영·회계·사무",
+    "summary": "한국특허정보원 2026년 한국특허정보원 체험형 청년인턴 채용 공고",
     "mainDuties": [
-      "행정지원(체험형 청년인턴, 대전)",
-      "행정지원(체험형 청년인턴, 서울)",
-      "표준직무(NCS): 경영·회계·사무",
-      "근무분야: 일반직, 행정직, 사무직"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "한국특허정보원은 국가 지식재산 정보화 전문기관으로, 지능정보화 사회를 선도할 역량 있는 인재를 모집합니다.",
-      "1. 채용부문 및 인원",
-      "ο 행정지원 : 1명(체험형 청년인턴, 대전)",
-      "ο 행정지원 : 1명(체험형 청년인턴, 서울)",
-      "2. 접수기간 : 2026. 11. 3.(화) ~ 11. 18.(수), 14:00(마감시간 이후 접수 불가)",
-      "3. 접수방법 : 한국특허정보원 채용 홈페이지(http://kipi.recruiter.co.kr) 인터넷 접수",
-      "4. 응시자격",
-      "ο 【필수사항】",
-      "ㆍ「청년고용촉진 특별법」에 따라 공고마감일 기준 만 34세 이하인 자",
-      "단, 「제대군인지원에 관한 법률 시행령」제19조에 따라 제대군인에 대한 청년 인정 연령을 아래와 같이 연장함",
-      "- 복무기간 1년 미만: 1세, 1년 이상~2년 미만: 2세, 2년 이상: 3세",
-      "ο (1차) 서류전형 : 최종 합계점수 60점 이상을 기준으로 채용계획인원의 5배수 범위 내에서 선발(동점자는 모두 합격)",
-      "ο (2차) 면접전형 : 최종 합계점수 80점 이상을 기준으로 고득점자순으로 최종 합격자를 선정",
-      "※ 동점자는 한국특허정보원 규정(직원채용요령 제13조)에 따라 합격 처리",
-      "※ 적격자가 없을 경우 채용하지 않을 수 있음"
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -23876,7 +25032,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306535",
@@ -23885,25 +25041,17 @@
     "orgType": "공공기관",
     "title": "2026년 제2차 국립생태원 기간제근로자(육아휴직 대체) 채용 공고",
     "categories": [
-      "admin_biz",
-      "it_sw",
-      "chem_env",
-      "rf_telecom"
+      "admin_biz"
     ],
     "subDomainTags": [
-      "운전·운송",
-      "정보통신",
-      "환경·에너지·안전",
-      "농림어업",
-      "행정직, 관리직, 연구직, 기술직, 전산직, 계약직",
       "비정규직"
     ],
     "employmentType": "계약직/체험형",
     "location": "충남",
     "detailLocation": "충남",
-    "headcount": "5명",
-    "experienceLevel": "신입+경력",
-    "educationRequired": "학력무관, 고졸, 대졸(2~3년), 대졸(4년)",
+    "headcount": "공고문 참조",
+    "experienceLevel": "신입/경력",
+    "educationRequired": "공고문 참조",
     "applicationStart": "2026-11-03",
     "applicationEnd": "2026-11-17",
     "schedules": [
@@ -23930,35 +25078,12 @@
         "maxChars": 800
       }
     ],
-    "summary": "모집직종(5개 분야): 전문위원 마급(사이버보안, 1명) / 전문위원 마급(생태자연도, 1명) / 전문위원 마급(외래생물, 1명) / 관리원(전시운영, 1명) / 전문위원 마급(전시동물, 1명)\n표준직무(NCS): 운전·운송, 정보통신, 환경·에너지·안전, 농림어업",
+    "summary": "국립생태원 2026년 제2차 국립생태원 기간제근로자(육아휴직 대체) 채용 공고",
     "mainDuties": [
-      "전문위원 마급(사이버보안, 1명)",
-      "전문위원 마급(생태자연도, 1명)",
-      "전문위원 마급(외래생물, 1명)",
-      "관리원(전시운영, 1명)",
-      "전문위원 마급(전시동물, 1명)",
-      "표준직무(NCS): 운전·운송, 정보통신, 환경·에너지·안전, 농림어업",
-      "근무분야: 행정직, 관리직, 연구직, 기술직, 전산직, 계약직"
+      "세부 직무기술서 및 채용공고문 참조"
     ],
     "qualifications": [
-      "가. 국립생태원 「기간제근로자 관리세칙」 제8조의 결격사유에 해당되지 않은 자",
-      "나. 자격 및 경력 요건: 해당분야 전공자 및 경력자로서 해당 업무 수행이 가능한 자",
-      "(※전문위원 마급)",
-      "위 “가부터 라”의 자격 및 경력요건에 포함할 수 없는 자격·기능 및 경력이 있는 자",
-      "* 비교를 위함 - '전문위원 라급'",
-      "1. 채용예정 직무분야와 관련된 석사학위 취득 후 2년 이상 경력이 있는 자",
-      "2. 채용예정 직무분야와 관련된 학사학위 취득 후 5년 이상 경력이 있는 자",
-      "3. 기사 자격을 취득하고 해당 분야에 2년 이상 경력이 있는 자",
-      "4. 산업기사 자격을 취득하고 해당 분야에 6년 이상 경력이 있는 자",
-      "(※관리원) : 무관",
-      "다. 병역을 필하였거나 면제된 자(남자만 해당)",
-      "라. 장애인 또는 보훈대상자 관계법에 따라 우대(관련 서류 제출 시)",
-      "가. 전형일정",
-      "1. 채용 공고 및 접수: '26. 11. 3(화) 17:00 ∼ 11. 17(화) 17:00",
-      "2. 서류심사: ’26. 11. 20(금)",
-      "3. 서류전형 합격자 발표: ’26. 11. 24(화) 17:00 이후",
-      "4. 면접심사: ’26. 11. 27(금)",
-      "5. 면접심사 합격자 발표: ’26. 12. 1(화) 17:00 이후"
+      "세부 지원자격은 채용공고문 및 직무기술서 참조"
     ],
     "preferredCerts": [
       "전기기사",
@@ -23970,7 +25095,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306468",
@@ -24053,7 +25178,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306636",
@@ -24130,7 +25255,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306643",
@@ -24217,7 +25342,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306644",
@@ -24298,7 +25423,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306662",
@@ -24382,7 +25507,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306661",
@@ -24459,7 +25584,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306660",
@@ -24537,7 +25662,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306658",
@@ -24631,7 +25756,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306656",
@@ -24707,7 +25832,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306655",
@@ -24783,7 +25908,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306654",
@@ -24864,7 +25989,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306649",
@@ -24939,7 +26064,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306647",
@@ -25013,7 +26138,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306645",
@@ -25104,7 +26229,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306646",
@@ -25179,7 +26304,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306620",
@@ -25262,7 +26387,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306572",
@@ -25345,7 +26470,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306570",
@@ -25428,7 +26553,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306569",
@@ -25502,7 +26627,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306568",
@@ -25585,7 +26710,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306567",
@@ -25659,7 +26784,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306566",
@@ -25729,7 +26854,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306624",
@@ -25798,7 +26923,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306625",
@@ -25868,7 +26993,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306627",
@@ -25953,7 +27078,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306628",
@@ -26033,7 +27158,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306553",
@@ -26113,7 +27238,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306800",
@@ -26192,7 +27317,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306549",
@@ -26274,7 +27399,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306548",
@@ -26354,7 +27479,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306406",
@@ -26454,7 +27579,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306545",
@@ -26534,7 +27659,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306455",
@@ -26611,7 +27736,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306464",
@@ -26687,7 +27812,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306573",
@@ -26759,7 +27884,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306575",
@@ -26831,7 +27956,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306576",
@@ -26915,7 +28040,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306619",
@@ -26986,7 +28111,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306618",
@@ -27070,7 +28195,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306617",
@@ -27141,7 +28266,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306616",
@@ -27218,7 +28343,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306614",
@@ -27296,7 +28421,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306613",
@@ -27377,7 +28502,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306612",
@@ -27462,7 +28587,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306608",
@@ -27536,7 +28661,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306606",
@@ -27613,7 +28738,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306621",
@@ -27698,7 +28823,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306602",
@@ -27774,7 +28899,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306601",
@@ -27850,7 +28975,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306600",
@@ -27939,7 +29064,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306599",
@@ -28012,7 +29137,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306598",
@@ -28094,7 +29219,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306597",
@@ -28183,7 +29308,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306622",
@@ -28253,7 +29378,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306623",
@@ -28326,7 +29451,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306588",
@@ -28412,7 +29537,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306586",
@@ -28486,7 +29611,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306474",
@@ -28566,7 +29691,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306563",
@@ -28641,7 +29766,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306431",
@@ -28712,7 +29837,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306436",
@@ -28785,7 +29910,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306525",
@@ -28868,7 +29993,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306551",
@@ -28944,7 +30069,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306546",
@@ -29022,7 +30147,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306543",
@@ -29093,7 +30218,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306529",
@@ -29169,7 +30294,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306527",
@@ -29257,7 +30382,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306526",
@@ -29337,7 +30462,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306501",
@@ -29410,7 +30535,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306470",
@@ -29487,7 +30612,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306502",
@@ -29560,7 +30685,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": true,
     "excludedReason": "'치과' 키워드 포함",
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306495",
@@ -29635,7 +30760,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306496",
@@ -29710,7 +30835,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306498",
@@ -29783,7 +30908,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306499",
@@ -29856,7 +30981,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306500",
@@ -29929,7 +31054,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306428",
@@ -30002,7 +31127,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306355",
@@ -30082,7 +31207,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306363",
@@ -30158,7 +31283,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306376",
@@ -30232,7 +31357,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306403",
@@ -30305,7 +31430,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306338",
@@ -30378,7 +31503,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306275",
@@ -30454,7 +31579,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306078",
@@ -30534,7 +31659,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306012",
@@ -30609,7 +31734,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-306724",
@@ -30713,7 +31838,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-305879",
@@ -30787,7 +31912,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-305734",
@@ -30857,7 +31982,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-305710",
@@ -30941,7 +32066,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-305316",
@@ -31011,7 +32136,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-305304",
@@ -31087,7 +32212,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-305301",
@@ -31160,7 +32285,7 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   },
   {
     "id": "alio-live-305224",
@@ -31235,6 +32360,6 @@
     "sourcePlatform": "JOB-ALIO",
     "isMedicalExcluded": false,
     "excludedReason": null,
-    "updatedAt": "2026-11-15 22:31"
+    "updatedAt": "2026-11-16 05:05"
   }
 ]
